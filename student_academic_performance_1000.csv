@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Program,Year,Study_Hours_Per_Week,Attendance_Percent,Assignment_Score,Midterm_Score,Internet_Access,Previous_GPA,Extracurricular_Activities,Final_Score,Academic_Performance
+STU0001,20,Female,Business Analytics,4,20.4,76.7,80.7,53.3,Yes,2.72,Multiple,100.0,High Distinction
+STU0002,24,Male,Business Analytics,3,11.2,91.4,77.0,46.9,Yes,2.42,Sports,93.3,Distinction
+STU0003,22,Male,Computer Science,3,16.5,86.0,59.1,69.6,Yes,2.08,None,100.0,Distinction
+STU0004,21,Male,Information Technology,4,19.9,84.2,75.2,63.2,Yes,3.04,Sports,100.0,High Distinction
+STU0005,19,Male,Information Technology,1,14.8,75.2,56.6,77.4,Yes,2.8,None,99.6,Distinction
+STU0006,19,Female,Information Technology,1,17.7,95.7,68.7,66.8,Yes,2.41,Multiple,100.0,High Distinction
+STU0007,18,Male,Business Analytics,4,11.9,90.0,85.4,71.1,Yes,3.59,None,100.0,High Distinction
+STU0008,23,Female,Business Analytics,2,13.8,79.0,82.4,43.6,Yes,3.35,Volunteer,89.5,Distinction
+STU0009,21,Female,Business Analytics,4,13.8,93.0,72.2,96.3,Yes,3.04,Club,100.0,High Distinction
+STU0010,22,Female,Data Science,4,10.5,79.5,59.3,65.5,Yes,3.66,Sports,100.0,Distinction
+STU0011,18,Female,Data Science,1,13.9,77.0,80.4,78.5,Yes,3.35,None,100.0,High Distinction
+STU0012,24,Female,Data Science,4,5.7,77.2,72.3,55.5,Yes,2.68,Club,83.6,Distinction
+STU0013,23,Male,Software Engineering,2,12.1,68.1,41.8,72.6,Yes,2.58,Club,76.3,Credit
+STU0014,19,Male,Computer Science,2,13.3,88.2,82.2,48.5,Yes,3.42,None,100.0,High Distinction
+STU0015,19,Male,Computer Science,3,13.5,67.5,71.7,74.8,Yes,3.23,Multiple,97.8,High Distinction
+STU0016,19,Male,Computer Science,4,13.6,72.9,87.6,62.7,Yes,3.13,Sports,100.0,High Distinction
+STU0017,20,Female,Data Science,1,14.6,65.3,57.8,68.4,Yes,2.67,Sports,88.6,Distinction
+STU0018,21,Male,Software Engineering,2,17.9,83.2,30.7,78.5,Yes,3.32,Club,97.5,Distinction
+STU0019,20,Female,Information Technology,3,20.2,82.6,75.6,49.5,No,2.71,None,89.3,Distinction
+STU0020,20,Male,Software Engineering,3,11.1,81.1,75.8,57.7,Yes,3.0,Multiple,100.0,High Distinction
+STU0021,21,Female,Computer Science,3,7.8,74.6,50.0,74.9,Yes,3.7,Sports,88.3,Distinction
+STU0022,19,Female,Software Engineering,1,8.7,73.4,59.3,99.5,No,2.75,None,91.8,High Distinction
+STU0023,20,Male,Information Technology,2,12.1,88.2,100.0,65.9,No,2.34,Sports,98.3,High Distinction
+STU0024,20,Female,Computer Science,2,12.9,79.0,68.0,76.9,Yes,2.58,Club,91.0,High Distinction
+STU0025,20,Female,Business Analytics,4,10.4,86.8,81.5,66.4,Yes,3.5,Sports,93.8,High Distinction
+STU0026,22,Male,Information Technology,1,7.2,76.0,63.5,97.1,Yes,3.16,Club,88.9,High Distinction
+STU0027,19,Female,Information Technology,1,12.3,85.6,44.8,41.8,No,2.99,None,77.3,Pass
+STU0028,21,Male,Information Technology,4,16.1,95.7,69.8,69.4,Yes,2.82,None,100.0,High Distinction
+STU0029,21,Male,Data Science,1,18.6,89.3,68.5,43.6,Yes,3.27,Volunteer,100.0,Distinction
+STU0030,18,Male,Business Analytics,4,11.7,80.3,66.8,30.4,Yes,2.67,None,96.5,Distinction
+STU0031,21,Female,Information Technology,3,12.5,86.3,70.5,72.5,Yes,3.19,Multiple,100.0,High Distinction
+STU0032,19,Female,Business Analytics,4,9.4,81.8,75.4,70.1,Yes,2.72,None,99.4,High Distinction
+STU0033,18,Female,Data Science,2,14.8,84.1,70.0,63.7,Yes,2.65,Volunteer,99.6,High Distinction
+STU0034,24,Male,Information Technology,1,9.9,81.1,55.6,66.4,Yes,2.76,Sports,99.4,Distinction
+STU0035,24,Female,Information Technology,3,18.4,82.5,78.3,100.0,Yes,2.88,Club,100.0,High Distinction
+STU0036,22,Male,Computer Science,4,4.3,85.9,46.7,64.1,Yes,3.03,None,78.6,Credit
+STU0037,20,Male,Computer Science,3,12.8,75.1,45.3,75.7,Yes,3.16,None,96.6,Distinction
+STU0038,19,Female,Data Science,1,16.8,74.9,81.6,58.3,Yes,1.5,None,100.0,High Distinction
+STU0039,22,Male,Computer Science,3,16.1,71.5,78.6,72.4,Yes,2.69,None,100.0,High Distinction
+STU0040,20,Female,Business Analytics,3,31.2,69.6,71.3,64.4,Yes,2.87,Sports,100.0,High Distinction
+STU0041,19,Female,Data Science,3,17.1,73.0,53.9,61.8,Yes,3.73,Sports,100.0,Distinction
+STU0042,21,Female,Computer Science,3,9.0,85.4,62.8,95.3,Yes,2.56,Club,100.0,High Distinction
+STU0043,18,Female,Business Analytics,4,14.4,76.0,68.6,85.7,Yes,3.12,Volunteer,100.0,High Distinction
+STU0044,23,Female,Information Technology,3,4.3,88.6,51.3,70.1,Yes,3.72,Club,84.3,Distinction
+STU0045,19,Male,Software Engineering,1,14.5,84.3,62.4,33.4,Yes,2.46,Club,77.4,Credit
+STU0046,21,Male,Business Analytics,2,10.0,66.3,80.5,62.6,Yes,3.23,Sports,92.8,High Distinction
+STU0047,20,Male,Data Science,1,20.5,89.9,90.6,100.0,Yes,2.69,Sports,100.0,High Distinction
+STU0048,21,Female,Business Analytics,2,11.7,91.3,66.5,64.5,Yes,2.82,Sports,100.0,High Distinction
+STU0049,21,Female,Computer Science,2,14.3,75.1,81.8,84.5,Yes,2.69,Volunteer,98.0,High Distinction
+STU0050,19,Female,Business Analytics,1,11.2,87.8,,89.6,Yes,2.72,None,93.5,Distinction
+STU0051,24,Male,Software Engineering,2,25.4,76.3,80.6,71.3,Yes,4.0,None,100.0,High Distinction
+STU0052,22,Female,Business Analytics,1,13.1,84.9,61.5,55.4,Yes,3.43,Club,100.0,Distinction
+STU0053,24,Male,Data Science,4,26.0,72.6,76.0,31.5,Yes,3.55,None,100.0,Distinction
+STU0054,23,Male,Software Engineering,4,19.9,67.9,68.8,78.3,Yes,3.27,Multiple,100.0,High Distinction
+STU0055,21,Female,Computer Science,1,17.9,80.6,89.2,55.8,Yes,2.33,Multiple,100.0,High Distinction
+STU0056,23,Female,Computer Science,4,17.2,82.9,60.6,70.6,Yes,3.23,None,100.0,Distinction
+STU0057,19,Male,Business Analytics,2,17.4,80.4,,49.3,Yes,3.53,None,100.0,High Distinction
+STU0058,19,Female,Information Technology,2,3.4,73.3,68.4,64.0,Yes,2.67,Sports,71.1,Credit
+STU0059,18,Male,Software Engineering,1,13.3,80.4,69.9,68.5,Yes,3.48,Club,100.0,High Distinction
+STU0060,20,Female,Software Engineering,2,20.1,86.4,69.6,72.0,Yes,3.37,None,100.0,High Distinction
+STU0061,20,Female,Information Technology,3,14.7,83.6,61.0,51.3,Yes,3.88,Club,100.0,Distinction
+STU0062,20,Male,Computer Science,3,6.6,85.6,71.8,86.0,Yes,2.86,Club,92.2,High Distinction
+STU0063,22,Female,Data Science,1,14.7,78.0,71.2,59.0,Yes,2.56,Sports,99.3,High Distinction
+STU0064,20,Male,Information Technology,1,25.2,94.5,75.1,42.9,Yes,2.89,None,100.0,Distinction
+STU0065,20,Female,Software Engineering,2,22.5,73.4,73.1,66.4,Yes,3.7,Volunteer,100.0,High Distinction
+STU0066,21,Male,Information Technology,2,14.6,88.4,82.4,68.5,Yes,2.23,None,100.0,High Distinction
+STU0067,19,Male,Data Science,1,20.7,94.6,84.0,70.4,Yes,2.12,Volunteer,100.0,High Distinction
+STU0068,22,Female,Computer Science,2,12.8,88.3,58.3,88.4,Yes,3.09,Sports,100.0,High Distinction
+STU0069,18,Male,Business Analytics,4,4.8,82.2,83.3,64.5,Yes,2.85,Club,80.1,Distinction
+STU0070,25,Female,Information Technology,4,9.5,79.2,56.6,66.2,Yes,3.05,Multiple,85.6,Distinction
+STU0071,22,Female,Business Analytics,2,24.4,93.3,79.6,51.5,Yes,3.48,Multiple,100.0,High Distinction
+STU0072,19,Female,Computer Science,4,13.4,71.2,80.1,80.3,Yes,2.8,Sports,100.0,High Distinction
+STU0073,18,Male,Data Science,2,13.5,75.3,47.2,70.8,Yes,2.21,None,95.3,Distinction
+STU0074,22,Male,Software Engineering,2,13.2,80.4,73.2,61.7,Yes,3.97,Volunteer,100.0,High Distinction
+STU0075,22,Female,Computer Science,1,26.4,95.1,65.9,39.4,Yes,2.6,Sports,100.0,Distinction
+STU0076,22,Female,Computer Science,3,24.8,87.4,62.1,89.7,Yes,2.57,None,100.0,High Distinction
+STU0077,22,Male,Computer Science,4,28.3,75.3,89.6,49.6,No,3.55,Multiple,100.0,High Distinction
+STU0078,18,Female,Data Science,3,14.0,81.2,63.5,59.1,Yes,2.88,None,87.1,Distinction
+STU0079,20,Female,Business Analytics,2,16.8,78.5,61.5,73.4,Yes,3.02,None,100.0,High Distinction
+STU0080,19,Male,Business Analytics,3,5.9,77.6,73.0,50.1,Yes,3.27,None,83.6,Distinction
+STU0081,23,Female,Computer Science,1,23.9,92.8,80.9,45.6,Yes,3.54,Club,100.0,High Distinction
+STU0082,21,Male,Information Technology,4,8.0,71.7,70.2,36.1,Yes,2.9,Club,79.0,Credit
+STU0083,20,Female,Business Analytics,2,16.3,98.5,87.2,78.8,Yes,3.73,Sports,100.0,High Distinction
+STU0084,18,Male,Business Analytics,2,8.4,91.5,78.9,59.8,Yes,2.09,Sports,86.0,Distinction
+STU0085,20,Female,Software Engineering,3,11.5,93.8,43.7,100.0,Yes,3.39,Sports,98.2,High Distinction
+STU0086,20,Female,Computer Science,3,10.0,79.8,65.1,53.1,Yes,2.67,Club,87.4,Distinction
+STU0087,22,Male,Data Science,1,11.4,82.7,64.7,54.2,Yes,3.67,None,100.0,Distinction
+STU0088,21,Female,Information Technology,3,11.8,71.1,78.2,59.5,Yes,3.11,Multiple,84.1,Distinction
+STU0089,23,Male,Information Technology,1,11.7,79.3,37.9,71.6,Yes,2.75,None,83.0,Credit
+STU0090,20,Female,Data Science,3,20.0,88.4,100.0,60.9,Yes,3.35,Multiple,100.0,High Distinction
+STU0091,19,Male,Data Science,4,8.4,95.7,78.9,77.2,Yes,3.45,None,100.0,High Distinction
+STU0092,22,Male,Software Engineering,4,16.3,74.0,73.9,53.3,Yes,3.34,Volunteer,100.0,High Distinction
+STU0093,22,Male,Computer Science,3,22.3,80.7,87.4,47.3,Yes,2.59,None,100.0,High Distinction
+STU0094,21,Male,Computer Science,2,11.9,82.6,100.0,41.0,Yes,2.83,None,100.0,High Distinction
+STU0095,22,Female,Data Science,1,10.7,71.4,83.3,34.6,Yes,3.05,Multiple,84.1,Distinction
+STU0096,21,Female,Business Analytics,3,13.6,89.3,84.3,60.2,Yes,3.03,Multiple,100.0,High Distinction
+STU0097,21,Male,Information Technology,1,22.1,77.5,73.7,63.5,Yes,3.39,Sports,100.0,High Distinction
+STU0098,20,Male,Computer Science,2,16.2,82.2,70.2,58.5,Yes,2.14,Club,92.4,Distinction
+STU0099,18,Male,Computer Science,2,11.8,79.9,65.8,86.7,Yes,3.2,Club,100.0,High Distinction
+STU0100,19,Female,Software Engineering,1,17.9,76.9,61.3,86.4,Yes,2.92,Multiple,100.0,High Distinction
+STU0101,18,Female,Computer Science,3,8.4,83.9,,63.0,Yes,2.67,Sports,94.4,Distinction
+STU0102,21,Female,Information Technology,1,19.1,82.1,54.4,41.1,Yes,2.72,Club,96.8,Credit
+STU0103,20,Female,Computer Science,3,17.5,80.7,71.0,59.5,No,2.95,Sports,100.0,High Distinction
+STU0104,21,Male,Information Technology,2,13.2,77.4,50.1,59.0,Yes,1.5,Sports,81.5,Credit
+STU0105,23,Male,Computer Science,1,10.0,86.9,74.5,58.1,Yes,2.73,Multiple,91.9,Distinction
+STU0106,19,Male,Business Analytics,2,9.7,98.9,71.5,57.5,Yes,2.66,None,95.1,Distinction
+STU0107,20,Female,Computer Science,1,18.2,85.3,73.9,58.2,No,3.29,None,100.0,High Distinction
+STU0108,22,Female,Data Science,1,22.4,93.0,65.2,62.2,Yes,2.69,Club,100.0,Distinction
+STU0109,19,Female,Computer Science,3,11.2,71.5,100.0,58.5,Yes,2.95,Club,100.0,High Distinction
+STU0110,18,Male,Business Analytics,1,17.8,85.4,89.7,71.1,Yes,3.74,None,100.0,High Distinction
+STU0111,20,Male,Software Engineering,4,2.5,74.1,55.8,73.4,Yes,3.5,Sports,76.3,Credit
+STU0112,19,Female,Data Science,1,11.5,70.7,75.0,54.3,Yes,3.46,Multiple,95.2,Distinction
+STU0113,23,Male,Business Analytics,1,14.8,77.3,64.1,87.1,Yes,2.83,None,100.0,High Distinction
+STU0114,22,Female,Information Technology,3,9.5,94.7,58.8,53.3,Yes,3.29,Club,100.0,Distinction
+STU0115,21,Female,Information Technology,2,9.4,92.6,54.6,43.7,Yes,2.94,Volunteer,72.3,Pass
+STU0116,23,Male,Data Science,1,11.0,86.2,77.6,73.7,Yes,2.96,Sports,97.2,High Distinction
+STU0117,22,Female,Software Engineering,2,16.8,70.2,63.1,55.7,Yes,3.23,Multiple,86.2,Distinction
+STU0118,19,Male,Data Science,1,13.9,82.2,84.6,72.8,Yes,2.78,Volunteer,100.0,High Distinction
+STU0119,23,Female,Business Analytics,4,2.0,86.7,84.9,31.9,Yes,3.72,Sports,82.5,Distinction
+STU0120,21,Male,Data Science,2,2.3,85.6,89.9,88.9,Yes,2.98,Club,100.0,High Distinction
+STU0121,22,Male,Business Analytics,3,11.4,67.4,60.9,78.1,Yes,3.33,Club,97.8,High Distinction
+STU0122,23,Male,Computer Science,4,17.7,76.0,78.2,45.5,Yes,3.71,Club,100.0,Distinction
+STU0123,20,Female,Business Analytics,2,2.0,83.4,80.2,45.8,Yes,3.51,Multiple,85.0,Distinction
+STU0124,19,Female,Software Engineering,4,12.0,88.8,65.8,93.1,Yes,2.42,Sports,98.6,High Distinction
+STU0125,19,Male,Computer Science,2,11.8,64.2,62.0,56.9,Yes,3.25,None,81.1,Credit
+STU0126,20,Male,Data Science,4,23.3,82.5,92.9,55.5,Yes,3.43,None,100.0,High Distinction
+STU0127,22,Female,Computer Science,1,12.7,85.3,75.0,34.0,Yes,3.45,None,85.3,Credit
+STU0128,23,Female,Business Analytics,3,17.3,91.6,80.3,62.7,Yes,2.55,None,100.0,High Distinction
+STU0129,18,Female,Computer Science,2,15.8,90.2,61.3,64.6,Yes,2.75,Multiple,100.0,Distinction
+STU0130,21,Male,Information Technology,2,2.2,89.2,56.1,78.7,Yes,3.5,Club,93.7,Distinction
+STU0131,20,Female,Data Science,3,19.6,,64.6,47.0,Yes,2.71,Club,98.6,Distinction
+STU0132,19,Female,Information Technology,3,16.3,66.8,70.4,45.2,Yes,2.92,Club,98.2,Distinction
+STU0133,19,Male,Data Science,1,18.0,80.5,58.2,74.8,Yes,3.76,Volunteer,100.0,High Distinction
+STU0134,20,Female,Data Science,1,35.0,93.0,71.9,83.1,Yes,3.03,Sports,100.0,High Distinction
+STU0135,24,Female,Software Engineering,3,2.5,96.5,50.0,44.4,Yes,2.72,Multiple,68.2,Pass
+STU0136,20,Female,Computer Science,3,25.3,90.4,57.4,84.2,Yes,2.66,Sports,100.0,High Distinction
+STU0137,21,Male,Information Technology,4,13.3,87.9,80.7,68.6,Yes,3.2,Multiple,99.9,High Distinction
+STU0138,22,Male,Computer Science,3,16.7,87.4,79.8,84.4,Yes,2.45,Club,100.0,High Distinction
+STU0139,20,Male,Software Engineering,4,14.7,79.0,66.9,66.9,Yes,2.94,None,100.0,High Distinction
+STU0140,24,Male,Software Engineering,3,12.5,82.8,58.8,30.2,Yes,3.2,Club,93.1,Credit
+STU0141,24,Male,Business Analytics,2,11.6,99.0,58.6,65.7,Yes,3.63,Club,100.0,Distinction
+STU0142,19,Male,Software Engineering,1,17.0,75.5,67.1,83.9,No,3.35,None,100.0,High Distinction
+STU0143,21,Male,Business Analytics,3,5.9,98.5,80.4,54.6,Yes,2.73,Club,86.4,Distinction
+STU0144,20,Female,Business Analytics,3,19.5,81.1,84.1,62.2,Yes,3.58,Sports,100.0,High Distinction
+STU0145,20,Female,Computer Science,1,12.5,95.9,65.5,65.4,Yes,2.92,None,100.0,High Distinction
+STU0146,18,Male,Data Science,2,8.2,71.3,57.0,24.5,Yes,2.49,Multiple,63.6,Pass
+STU0147,21,Female,Computer Science,4,12.3,89.3,75.5,93.1,Yes,2.97,Club,100.0,High Distinction
+STU0148,21,Female,Software Engineering,2,22.5,77.4,61.3,54.5,Yes,3.7,Multiple,100.0,Distinction
+STU0149,18,Male,Data Science,2,11.8,71.3,65.3,75.6,Yes,3.12,Club,96.7,High Distinction
+STU0150,20,Female,Data Science,2,17.2,86.0,89.2,66.7,Yes,3.06,Sports,100.0,High Distinction
+STU0151,23,Female,Computer Science,1,10.6,93.1,82.8,86.9,Yes,3.79,Sports,100.0,High Distinction
+STU0152,19,Female,Information Technology,2,19.5,76.4,74.1,74.1,Yes,2.41,Club,100.0,High Distinction
+STU0153,19,Female,Information Technology,2,19.1,70.5,55.5,64.5,Yes,2.47,Multiple,83.7,Distinction
+STU0154,21,Female,Information Technology,1,26.1,83.2,74.7,54.6,Yes,2.32,None,100.0,High Distinction
+STU0155,25,Male,Computer Science,3,13.9,83.2,85.8,80.0,Yes,3.22,Multiple,100.0,High Distinction
+STU0156,19,Male,Software Engineering,2,19.0,88.9,67.1,39.9,Yes,3.12,Multiple,100.0,Distinction
+STU0157,21,Male,Business Analytics,4,15.6,92.5,89.6,77.7,Yes,3.74,Club,100.0,High Distinction
+STU0158,22,Female,Information Technology,4,22.8,83.5,88.8,51.5,Yes,3.16,Multiple,100.0,High Distinction
+STU0159,19,Male,Information Technology,1,10.7,100.0,93.6,86.8,Yes,2.87,Sports,100.0,High Distinction
+STU0160,22,Female,Information Technology,3,19.5,86.0,76.0,70.4,Yes,3.05,Multiple,100.0,High Distinction
+STU0161,20,Female,Business Analytics,2,13.8,80.9,79.6,77.7,No,3.1,Club,100.0,High Distinction
+STU0162,21,Female,Business Analytics,4,14.6,69.5,90.4,69.2,Yes,2.3,None,98.1,High Distinction
+STU0163,21,Female,Software Engineering,1,15.6,81.6,77.8,41.7,Yes,4.0,Multiple,100.0,Distinction
+STU0164,21,Male,Business Analytics,3,16.5,81.0,65.5,55.1,Yes,3.28,Sports,100.0,Distinction
+STU0165,19,Male,Software Engineering,3,14.3,92.6,66.2,78.1,Yes,3.14,Sports,100.0,High Distinction
+STU0166,23,Female,Software Engineering,2,16.3,88.2,75.1,70.5,Yes,3.33,Club,100.0,High Distinction
+STU0167,20,Male,Computer Science,1,24.5,73.4,55.2,85.7,Yes,3.37,None,100.0,High Distinction
+STU0168,19,Female,Software Engineering,3,20.9,85.6,70.1,74.0,Yes,2.99,Sports,100.0,High Distinction
+STU0169,18,Male,Computer Science,3,20.2,90.0,86.3,53.5,Yes,2.77,Volunteer,100.0,High Distinction
+STU0170,21,Male,Data Science,2,12.3,97.8,43.5,56.1,Yes,3.32,None,98.0,Credit
+STU0171,21,Female,Information Technology,3,9.7,92.0,91.9,69.5,Yes,3.22,None,100.0,High Distinction
+STU0172,18,Male,Software Engineering,2,20.7,90.8,86.6,33.3,Yes,2.69,None,100.0,Distinction
+STU0173,21,Female,Software Engineering,3,20.3,84.5,66.0,93.1,Yes,3.69,Sports,100.0,High Distinction
+STU0174,19,Male,Data Science,1,23.8,87.5,79.1,74.6,Yes,3.18,Volunteer,100.0,High Distinction
+STU0175,21,Female,Data Science,4,11.4,95.2,72.0,86.4,Yes,3.38,Volunteer,97.8,High Distinction
+STU0176,19,Female,Information Technology,2,13.6,72.0,88.0,44.3,Yes,3.68,Multiple,97.9,High Distinction
+STU0177,22,Male,Computer Science,2,5.2,80.9,84.8,86.7,Yes,3.06,Club,100.0,High Distinction
+STU0178,20,Male,Information Technology,1,48.0,77.0,53.8,100.0,Yes,3.19,None,100.0,High Distinction
+STU0179,24,Female,Computer Science,1,21.0,87.4,79.6,48.2,Yes,3.41,Multiple,100.0,High Distinction
+STU0180,19,Male,Data Science,2,12.2,95.1,69.3,79.6,Yes,2.72,Volunteer,100.0,High Distinction
+STU0181,20,Male,Information Technology,1,18.8,78.6,73.1,68.0,No,3.07,Club,98.2,High Distinction
+STU0182,19,Female,Software Engineering,4,13.9,62.5,62.5,44.8,Yes,3.11,Club,88.1,Credit
+STU0183,23,Female,Data Science,1,16.9,80.3,94.7,75.4,No,2.62,Multiple,100.0,High Distinction
+STU0184,23,Male,Software Engineering,2,8.1,92.2,85.5,80.5,Yes,4.0,Club,100.0,High Distinction
+STU0185,19,Female,Computer Science,2,15.5,88.8,62.4,59.0,Yes,2.42,Sports,100.0,Distinction
+STU0186,21,Female,Software Engineering,1,2.0,87.9,54.7,85.5,Yes,2.47,Club,75.0,Distinction
+STU0187,22,Female,Software Engineering,1,13.9,81.5,67.0,43.0,Yes,3.64,None,100.0,Distinction
+STU0188,21,Male,Business Analytics,2,5.2,72.5,77.6,45.6,Yes,3.37,Sports,81.7,Distinction
+STU0189,21,Male,Business Analytics,2,22.2,88.6,75.1,70.0,Yes,2.59,Sports,100.0,High Distinction
+STU0190,19,Female,Data Science,2,19.7,76.5,88.3,68.4,Yes,3.32,None,100.0,High Distinction
+STU0191,19,Male,Computer Science,2,17.8,100.0,82.3,57.3,Yes,3.71,None,100.0,High Distinction
+STU0192,23,Female,Business Analytics,3,24.1,89.1,84.6,80.1,Yes,3.04,None,100.0,High Distinction
+STU0193,23,Male,Information Technology,1,9.3,78.8,76.2,76.0,Yes,4.0,Club,100.0,High Distinction
+STU0194,21,Female,Computer Science,2,25.5,78.5,53.9,80.9,Yes,2.27,Volunteer,100.0,High Distinction
+STU0195,20,Female,Information Technology,4,20.6,83.2,69.5,66.2,Yes,3.36,Multiple,100.0,High Distinction
+STU0196,20,Male,Computer Science,2,13.6,81.8,85.8,77.0,Yes,3.57,Sports,100.0,High Distinction
+STU0197,22,Female,Computer Science,3,21.8,94.1,71.3,61.3,Yes,3.45,Club,100.0,High Distinction
+STU0198,23,Male,Computer Science,2,8.4,85.7,78.5,98.8,Yes,2.96,Multiple,100.0,High Distinction
+STU0199,23,Male,Software Engineering,3,10.1,77.4,67.9,55.8,Yes,2.92,None,79.4,Distinction
+STU0200,22,Female,Business Analytics,3,11.3,100.0,58.6,99.6,Yes,3.25,Club,100.0,High Distinction
+STU0201,21,Female,Software Engineering,2,11.8,84.4,70.4,68.5,Yes,3.42,Volunteer,97.8,High Distinction
+STU0202,19,Male,Information Technology,4,8.7,90.9,76.0,47.4,Yes,3.32,None,90.3,Distinction
+STU0203,19,Female,Information Technology,1,22.3,78.5,63.5,88.5,Yes,3.52,Multiple,100.0,High Distinction
+STU0204,23,Female,Business Analytics,1,13.4,87.3,68.9,69.9,Yes,2.59,Volunteer,93.9,High Distinction
+STU0205,21,Female,Information Technology,3,17.1,86.8,59.8,80.8,Yes,2.95,None,100.0,High Distinction
+STU0206,18,Female,Computer Science,4,11.6,67.0,86.6,86.4,Yes,2.63,None,100.0,High Distinction
+STU0207,19,Female,Data Science,1,4.1,100.0,68.2,73.1,Yes,2.88,None,91.6,Distinction
+STU0208,21,Male,Computer Science,1,16.6,95.6,90.9,59.1,Yes,3.51,Sports,100.0,High Distinction
+STU0209,18,Male,Business Analytics,1,3.5,80.4,91.9,82.6,Yes,3.1,Sports,86.1,High Distinction
+STU0210,19,Female,Data Science,2,14.6,74.1,70.9,68.0,No,4.0,Club,100.0,High Distinction
+STU0211,21,Female,Computer Science,3,6.8,87.1,58.9,78.3,Yes,3.14,None,100.0,High Distinction
+STU0212,22,Female,Computer Science,2,26.9,84.8,44.9,35.7,Yes,3.08,Multiple,100.0,Credit
+STU0213,21,Male,Data Science,2,20.5,87.2,52.9,74.7,Yes,3.1,Sports,100.0,Distinction
+STU0214,19,Female,Information Technology,2,15.6,85.7,54.1,58.4,Yes,2.76,None,93.6,Distinction
+STU0215,22,Male,Computer Science,1,22.6,88.6,89.9,92.8,Yes,3.02,Sports,100.0,High Distinction
+STU0216,19,Male,Software Engineering,2,9.9,97.0,73.5,77.3,Yes,3.56,Club,86.1,High Distinction
+STU0217,20,Male,Computer Science,3,18.3,89.1,77.1,71.6,Yes,3.1,Sports,100.0,High Distinction
+STU0218,22,Female,Data Science,4,16.2,74.6,43.1,75.3,Yes,2.69,None,91.6,Distinction
+STU0219,21,Male,Software Engineering,4,16.6,96.3,56.4,53.0,Yes,2.63,None,88.6,Credit
+STU0220,23,Female,Computer Science,1,22.6,98.8,83.5,92.3,Yes,2.85,Volunteer,100.0,High Distinction
+STU0221,21,Male,Computer Science,4,19.4,100.0,75.7,97.9,Yes,3.08,Multiple,100.0,High Distinction
+STU0222,21,Female,Computer Science,3,16.7,73.9,70.1,73.9,Yes,3.59,Sports,100.0,High Distinction
+STU0223,19,Male,Information Technology,3,5.1,86.2,79.3,91.9,Yes,2.45,Sports,100.0,High Distinction
+STU0224,20,Female,Computer Science,2,9.2,65.3,93.3,59.5,Yes,2.91,Club,82.8,High Distinction
+STU0225,20,Male,Data Science,2,14.3,89.0,69.1,56.0,Yes,3.11,Club,90.8,Distinction
+STU0226,19,Female,Computer Science,2,15.6,79.1,72.9,68.6,Yes,2.22,Sports,100.0,High Distinction
+STU0227,24,Female,Business Analytics,1,8.2,100.0,74.5,74.5,Yes,2.67,Multiple,100.0,High Distinction
+STU0228,20,Female,Software Engineering,1,29.5,77.0,100.0,62.1,No,2.74,Club,100.0,High Distinction
+STU0229,23,Female,Data Science,1,24.1,68.8,44.7,76.1,Yes,2.69,Sports,100.0,Distinction
+STU0230,21,Male,Business Analytics,2,18.6,79.8,80.9,72.6,Yes,3.14,Club,100.0,High Distinction
+STU0231,22,Male,Information Technology,3,15.4,66.2,70.5,53.0,Yes,2.98,Multiple,82.7,Distinction
+STU0232,21,Female,Business Analytics,2,13.7,90.8,79.4,75.8,Yes,2.8,Volunteer,100.0,High Distinction
+STU0233,21,Male,Business Analytics,1,9.3,65.4,63.5,81.0,Yes,3.24,None,99.7,High Distinction
+STU0234,21,Female,Information Technology,4,15.5,84.3,71.4,70.6,Yes,3.83,Sports,100.0,High Distinction
+STU0235,19,Female,Computer Science,4,16.5,65.3,81.2,85.3,Yes,3.79,Sports,100.0,High Distinction
+STU0236,22,Male,Software Engineering,3,7.5,81.1,100.0,49.7,Yes,2.18,Sports,95.0,High Distinction
+STU0237,20,Female,Information Technology,4,17.0,98.8,82.5,75.0,Yes,3.31,Club,100.0,High Distinction
+STU0238,18,Female,Computer Science,2,14.1,87.2,61.0,50.4,Yes,2.97,Volunteer,93.1,Distinction
+STU0239,21,Male,Information Technology,4,3.6,76.2,66.5,51.3,Yes,3.12,Volunteer,70.8,Credit
+STU0240,19,Female,Information Technology,1,9.8,83.7,66.1,58.5,Yes,2.87,Multiple,90.2,Distinction
+STU0241,24,Female,Software Engineering,2,12.5,84.2,48.7,53.9,No,3.1,None,91.4,Credit
+STU0242,24,Female,Data Science,1,26.3,88.3,67.7,59.8,Yes,3.12,Multiple,100.0,Distinction
+STU0243,23,Female,Data Science,1,18.3,71.7,81.5,64.8,Yes,2.79,Volunteer,92.7,High Distinction
+STU0244,20,Male,Computer Science,1,7.0,89.3,55.4,80.6,Yes,2.65,Sports,97.3,Distinction
+STU0245,18,Male,Information Technology,3,17.9,,85.6,63.2,No,2.85,Volunteer,100.0,High Distinction
+STU0246,23,Male,Business Analytics,3,5.7,78.3,78.3,44.2,Yes,3.16,None,80.5,Distinction
+STU0247,20,Female,Computer Science,3,21.5,79.6,62.5,85.1,Yes,3.32,Volunteer,100.0,High Distinction
+STU0248,24,Female,Information Technology,1,12.2,89.7,70.2,55.4,Yes,3.43,Club,100.0,Distinction
+STU0249,24,Male,Data Science,4,14.4,84.2,92.8,67.1,Yes,2.83,None,88.0,High Distinction
+STU0250,23,Female,Computer Science,3,23.0,71.3,81.5,74.7,Yes,3.18,Club,100.0,High Distinction
+STU0251,20,Female,Business Analytics,2,7.3,75.1,72.1,71.0,Yes,3.48,Club,83.2,Distinction
+STU0252,20,Female,Computer Science,3,6.6,85.8,68.9,84.4,Yes,3.57,None,100.0,High Distinction
+STU0253,23,Female,Computer Science,1,11.5,83.3,73.0,75.2,No,3.02,None,97.6,High Distinction
+STU0254,20,Male,Information Technology,2,21.2,78.8,65.3,55.1,Yes,2.95,Sports,100.0,Distinction
+STU0255,19,Male,Software Engineering,4,5.9,79.7,44.6,100.0,Yes,3.14,Club,86.8,Distinction
+STU0256,21,Male,Data Science,2,,90.3,98.5,70.9,Yes,2.53,Multiple,73.8,High Distinction
+STU0257,24,Female,Software Engineering,2,12.3,79.3,74.0,65.8,No,2.96,Multiple,91.4,Distinction
+STU0258,22,Male,Business Analytics,4,18.3,83.2,,82.5,Yes,3.39,Club,100.0,High Distinction
+STU0259,21,Male,Computer Science,3,22.2,100.0,71.2,71.7,Yes,3.34,Volunteer,100.0,High Distinction
+STU0260,19,Female,Business Analytics,1,12.2,71.2,62.4,74.0,Yes,2.93,Sports,87.5,Distinction
+STU0261,21,Female,Information Technology,1,12.5,67.3,69.6,100.0,Yes,3.15,Volunteer,100.0,High Distinction
+STU0262,25,Male,Software Engineering,1,21.9,91.1,51.2,63.9,Yes,2.68,None,100.0,Distinction
+STU0263,19,Male,Computer Science,3,3.8,77.9,100.0,63.2,Yes,3.37,Sports,94.2,High Distinction
+STU0264,21,Male,Business Analytics,2,12.7,81.1,56.0,69.7,Yes,3.01,Club,93.0,Distinction
+STU0265,23,Male,Computer Science,1,16.1,77.0,58.6,84.1,Yes,2.93,None,100.0,High Distinction
+STU0266,22,Female,Information Technology,4,17.7,81.7,66.3,45.4,Yes,2.89,Volunteer,100.0,Distinction
+STU0267,22,Male,Data Science,2,11.9,98.4,88.7,38.5,Yes,3.02,Volunteer,90.2,Distinction
+STU0268,22,Male,Business Analytics,1,15.2,91.2,72.2,59.2,Yes,2.85,Sports,98.6,High Distinction
+STU0269,20,Female,Information Technology,2,2.0,91.8,55.9,43.5,Yes,3.35,Sports,76.3,Credit
+STU0270,20,Male,Information Technology,3,11.1,71.3,88.3,61.6,Yes,2.87,Multiple,100.0,High Distinction
+STU0271,22,Female,Information Technology,1,17.7,73.6,81.5,75.5,Yes,,Volunteer,100.0,High Distinction
+STU0272,22,Female,Data Science,1,9.1,58.4,79.0,54.6,Yes,3.71,None,100.0,High Distinction
+STU0273,23,Female,Software Engineering,4,15.4,76.7,81.3,46.6,Yes,2.65,Sports,100.0,High Distinction
+STU0274,23,Male,Software Engineering,2,17.7,92.6,100.0,69.0,Yes,3.08,Club,100.0,High Distinction
+STU0275,21,Male,Data Science,2,12.9,88.7,100.0,80.9,Yes,2.76,Club,100.0,High Distinction
+STU0276,21,Female,Information Technology,2,16.0,82.0,63.1,42.6,Yes,2.9,None,91.6,Distinction
+STU0277,22,Male,Data Science,1,9.2,83.8,93.1,80.3,Yes,3.95,Sports,100.0,High Distinction
+STU0278,21,Male,Information Technology,1,13.8,77.8,77.0,80.3,Yes,2.91,Multiple,95.4,High Distinction
+STU0279,22,Female,Information Technology,2,18.7,85.8,78.5,82.3,Yes,3.21,Club,100.0,High Distinction
+STU0280,22,Female,Software Engineering,1,15.9,90.9,50.0,86.3,Yes,3.29,Multiple,100.0,High Distinction
+STU0281,23,Male,Computer Science,1,11.5,69.5,69.8,100.0,No,2.6,Volunteer,92.4,High Distinction
+STU0282,20,Female,Software Engineering,4,16.3,86.7,61.4,62.7,Yes,2.67,Multiple,99.7,Distinction
+STU0283,20,Male,Business Analytics,4,19.3,92.4,82.8,69.6,Yes,2.51,None,100.0,High Distinction
+STU0284,19,Male,Business Analytics,3,2.7,80.3,85.9,61.8,Yes,2.65,Volunteer,83.9,High Distinction
+STU0285,21,Male,Data Science,4,22.0,90.3,45.0,68.0,Yes,1.77,None,100.0,Distinction
+STU0286,18,Male,Software Engineering,1,13.0,100.0,71.7,91.0,Yes,3.3,Club,100.0,High Distinction
+STU0287,20,Female,Business Analytics,4,17.6,83.1,86.6,47.8,Yes,3.97,Sports,100.0,High Distinction
+STU0288,21,Female,Business Analytics,1,22.2,87.5,69.6,55.1,Yes,3.12,Sports,100.0,Distinction
+STU0289,20,Female,Computer Science,4,6.8,77.4,81.5,88.7,Yes,2.41,Multiple,96.0,High Distinction
+STU0290,21,Female,Business Analytics,4,10.7,85.6,76.6,83.3,Yes,2.76,Multiple,100.0,High Distinction
+STU0291,18,Male,Computer Science,3,13.3,88.1,76.4,62.6,Yes,2.84,None,100.0,High Distinction
+STU0292,18,Male,Data Science,4,10.3,85.8,68.5,80.8,Yes,2.59,Club,98.0,High Distinction
+STU0293,22,Female,Business Analytics,3,25.4,74.8,56.2,73.1,Yes,3.44,Sports,100.0,Distinction
+STU0294,20,Male,Data Science,1,9.9,85.9,57.4,90.5,Yes,3.41,Sports,100.0,High Distinction
+STU0295,19,Male,Computer Science,2,11.7,97.2,81.2,69.1,Yes,2.53,Volunteer,100.0,High Distinction
+STU0296,21,Male,Computer Science,3,16.2,88.0,72.3,83.4,Yes,3.38,Sports,100.0,High Distinction
+STU0297,22,Female,Data Science,1,7.8,92.7,70.2,100.0,Yes,3.74,Multiple,100.0,High Distinction
+STU0298,19,Female,Computer Science,3,12.6,81.9,66.5,77.0,Yes,3.91,None,100.0,High Distinction
+STU0299,21,Female,Computer Science,4,16.9,90.7,68.0,68.7,No,4.0,Club,100.0,High Distinction
+STU0300,19,Male,Computer Science,1,13.0,86.5,85.6,78.8,Yes,2.64,Club,92.7,High Distinction
+STU0301,18,Female,Software Engineering,3,14.4,75.4,67.6,62.5,Yes,4.0,None,100.0,High Distinction
+STU0302,21,Female,Data Science,4,11.8,86.9,54.6,100.0,Yes,2.89,Sports,100.0,High Distinction
+STU0303,21,Female,Information Technology,4,5.9,75.1,81.7,70.7,Yes,2.78,Volunteer,87.8,High Distinction
+STU0304,21,Female,Information Technology,4,16.9,78.3,69.3,63.9,Yes,3.2,Volunteer,100.0,High Distinction
+STU0305,22,Female,Information Technology,2,25.5,85.7,72.4,55.5,Yes,2.79,Sports,100.0,High Distinction
+STU0306,24,Female,Data Science,4,15.1,86.7,92.9,84.5,No,3.23,Club,100.0,High Distinction
+STU0307,21,Male,Data Science,3,16.4,73.3,71.7,81.0,Yes,2.46,None,100.0,High Distinction
+STU0308,20,Male,Computer Science,1,19.2,93.5,75.8,60.5,Yes,2.94,None,100.0,High Distinction
+STU0309,22,Female,Computer Science,2,7.4,89.1,56.7,76.6,Yes,3.63,Sports,94.4,Distinction
+STU0310,20,Female,Computer Science,3,25.2,77.7,69.1,45.4,Yes,3.02,None,100.0,Distinction
+STU0311,20,Male,Data Science,1,16.2,70.2,79.9,70.8,Yes,3.11,Volunteer,100.0,High Distinction
+STU0312,18,Male,Data Science,3,24.8,82.7,51.8,74.8,Yes,3.26,Club,100.0,Distinction
+STU0313,18,Female,Information Technology,3,10.6,80.0,74.6,93.6,Yes,3.58,Multiple,100.0,High Distinction
+STU0314,24,Female,Computer Science,1,25.9,85.0,73.3,56.4,Yes,2.31,Club,100.0,High Distinction
+STU0315,23,Female,Computer Science,3,19.7,80.7,72.5,48.8,Yes,3.31,Multiple,100.0,Distinction
+STU0316,22,Female,Software Engineering,3,18.3,65.9,85.5,54.6,No,2.93,Club,90.9,High Distinction
+STU0317,20,Male,Information Technology,2,16.4,80.5,76.3,48.0,Yes,3.12,Club,100.0,Distinction
+STU0318,19,Female,Data Science,1,13.5,81.2,91.2,88.0,Yes,3.53,Multiple,100.0,High Distinction
+STU0319,19,Female,Business Analytics,1,22.2,89.7,59.1,91.2,Yes,2.51,Club,100.0,High Distinction
+STU0320,19,Female,Information Technology,2,15.8,77.7,73.8,72.8,Yes,2.59,None,100.0,High Distinction
+STU0321,21,Female,Computer Science,4,3.2,99.1,73.1,86.3,Yes,2.18,Volunteer,88.4,High Distinction
+STU0322,22,Male,Computer Science,1,8.3,66.8,58.1,70.0,Yes,2.8,Multiple,84.6,Distinction
+STU0323,21,Male,Business Analytics,3,13.9,95.8,84.4,66.6,Yes,3.65,Volunteer,100.0,High Distinction
+STU0324,20,Male,Data Science,1,16.9,82.0,100.0,63.0,Yes,3.0,Club,100.0,High Distinction
+STU0325,24,Female,Data Science,2,14.7,91.7,71.8,63.3,Yes,2.45,Club,100.0,High Distinction
+STU0326,22,Female,Business Analytics,4,22.3,84.7,78.6,44.8,Yes,2.83,Multiple,100.0,Distinction
+STU0327,21,Male,Computer Science,3,3.3,94.3,73.1,72.0,Yes,2.38,None,77.6,Distinction
+STU0328,21,Female,Software Engineering,1,15.9,80.5,62.7,67.4,Yes,2.54,Club,100.0,Distinction
+STU0329,20,Female,Data Science,2,4.1,74.1,48.3,79.2,Yes,3.22,None,68.5,Credit
+STU0330,19,Male,Information Technology,1,19.6,96.8,62.8,69.4,Yes,2.52,Club,100.0,High Distinction
+STU0331,20,Male,Software Engineering,2,14.4,83.0,53.9,65.6,Yes,3.55,Club,100.0,Distinction
+STU0332,22,Male,Business Analytics,3,17.5,86.0,94.2,54.9,Yes,3.02,None,100.0,High Distinction
+STU0333,18,Male,Business Analytics,1,9.8,95.1,70.5,69.1,Yes,3.09,None,100.0,High Distinction
+STU0334,19,Female,Data Science,2,22.7,74.7,67.5,79.1,Yes,2.92,Club,100.0,High Distinction
+STU0335,18,Female,Data Science,2,45.0,89.4,83.6,50.8,Yes,3.4,None,100.0,High Distinction
+STU0336,18,Male,Data Science,4,18.5,78.7,57.4,69.3,No,3.4,None,100.0,Distinction
+STU0337,23,Female,Computer Science,4,14.2,82.8,62.0,71.5,Yes,3.2,Volunteer,100.0,High Distinction
+STU0338,22,Male,Information Technology,1,18.5,84.7,72.9,57.2,Yes,3.3,Sports,100.0,High Distinction
+STU0339,20,Male,Software Engineering,3,10.8,70.5,85.4,59.2,Yes,2.95,Sports,95.8,High Distinction
+STU0340,19,Female,Computer Science,2,20.1,77.0,78.5,71.5,Yes,3.29,Multiple,100.0,High Distinction
+STU0341,21,Male,Information Technology,2,24.9,96.2,75.2,51.0,Yes,2.9,None,100.0,High Distinction
+STU0342,20,Female,Information Technology,3,21.4,92.0,73.0,73.2,Yes,3.05,Sports,100.0,High Distinction
+STU0343,19,Female,Information Technology,4,10.6,83.4,77.2,54.6,Yes,2.93,Club,92.3,Distinction
+STU0344,20,Female,Business Analytics,4,17.2,86.2,74.6,83.9,Yes,2.84,Volunteer,100.0,High Distinction
+STU0345,20,Female,Software Engineering,3,7.2,81.4,58.6,100.0,Yes,2.74,Multiple,97.8,High Distinction
+STU0346,21,Male,Information Technology,2,18.4,96.2,72.6,55.1,Yes,3.26,Multiple,100.0,High Distinction
+STU0347,21,Female,Computer Science,3,17.7,82.2,58.0,76.0,Yes,3.64,Volunteer,100.0,High Distinction
+STU0348,18,Male,Computer Science,1,3.8,86.1,73.1,57.1,Yes,3.58,None,80.9,Distinction
+STU0349,20,Male,Software Engineering,3,8.0,94.3,65.8,83.6,Yes,2.48,None,100.0,High Distinction
+STU0350,21,Male,Data Science,2,13.3,77.0,100.0,49.0,No,3.63,Sports,100.0,High Distinction
+STU0351,21,Male,Information Technology,3,13.2,98.0,71.5,75.2,Yes,2.91,None,96.5,High Distinction
+STU0352,23,Female,Data Science,1,7.7,70.2,53.7,54.9,Yes,3.32,Club,75.3,Credit
+STU0353,21,Female,Software Engineering,1,17.3,98.7,70.3,64.9,Yes,2.64,Club,100.0,High Distinction
+STU0354,19,Male,Software Engineering,4,16.5,80.6,78.8,52.5,No,3.11,None,100.0,High Distinction
+STU0355,18,Male,Software Engineering,1,13.8,81.8,93.8,80.3,Yes,3.19,Volunteer,100.0,High Distinction
+STU0356,21,Female,Information Technology,2,10.5,67.0,64.3,55.4,Yes,2.38,None,81.0,Credit
+STU0357,18,Male,Data Science,1,21.3,79.9,51.4,76.3,Yes,3.32,Sports,100.0,Distinction
+STU0358,21,Female,Business Analytics,1,24.9,74.6,82.6,62.8,Yes,3.66,Club,100.0,High Distinction
+STU0359,24,Male,Software Engineering,1,12.1,78.5,,66.3,Yes,2.97,Sports,95.1,Distinction
+STU0360,21,Female,Data Science,1,11.3,82.8,66.3,70.2,Yes,3.66,Sports,94.2,Distinction
+STU0361,20,Male,Data Science,4,17.9,92.6,68.7,56.6,Yes,2.96,None,100.0,Distinction
+STU0362,21,Male,Data Science,2,12.9,85.9,71.1,71.2,Yes,3.43,Sports,100.0,High Distinction
+STU0363,20,Female,Computer Science,4,14.2,86.8,81.0,91.0,Yes,2.05,Volunteer,100.0,High Distinction
+STU0364,21,Male,Business Analytics,3,19.4,74.1,63.1,56.3,Yes,4.0,Multiple,100.0,Distinction
+STU0365,24,Male,Software Engineering,2,3.5,76.1,68.4,85.6,Yes,3.72,Sports,92.0,High Distinction
+STU0366,20,Female,Software Engineering,3,22.9,100.0,71.8,90.5,Yes,2.92,Sports,100.0,High Distinction
+STU0367,24,Male,Computer Science,2,15.4,77.4,73.9,55.8,Yes,2.16,Club,90.2,Distinction
+STU0368,23,Female,Computer Science,3,12.5,98.9,73.3,46.2,Yes,3.18,Multiple,97.2,Distinction
+STU0369,19,Female,Computer Science,2,14.5,81.8,77.7,72.5,Yes,2.4,None,100.0,High Distinction
+STU0370,18,Male,Data Science,2,14.8,84.0,83.0,59.8,Yes,3.25,Sports,97.1,High Distinction
+STU0371,19,Male,Data Science,4,4.6,93.6,77.1,96.0,Yes,3.24,Volunteer,95.5,High Distinction
+STU0372,18,Male,Computer Science,4,24.0,95.4,77.9,68.5,Yes,2.63,Club,100.0,High Distinction
+STU0373,19,Male,Business Analytics,4,15.2,83.0,51.4,56.0,Yes,3.55,None,91.5,Credit
+STU0374,22,Male,Software Engineering,2,17.7,80.5,72.7,50.8,Yes,3.41,Club,100.0,Distinction
+STU0375,18,Male,Data Science,3,20.7,83.5,78.2,84.3,Yes,3.49,None,100.0,High Distinction
+STU0376,20,Male,Business Analytics,2,8.9,87.0,81.5,59.4,Yes,3.05,Sports,86.2,Distinction
+STU0377,23,Female,Business Analytics,2,17.8,92.0,63.0,68.7,Yes,2.41,Club,100.0,High Distinction
+STU0378,18,Male,Business Analytics,1,13.4,84.0,63.4,82.3,Yes,3.49,Multiple,100.0,High Distinction
+STU0379,22,Female,Information Technology,3,20.1,89.6,64.5,60.7,Yes,2.93,Sports,100.0,Distinction
+STU0380,20,Male,Business Analytics,1,2.2,98.7,79.0,67.3,Yes,2.42,None,79.1,Distinction
+STU0381,19,Male,Data Science,2,14.4,87.4,85.4,67.8,Yes,3.66,None,100.0,High Distinction
+STU0382,22,Female,Software Engineering,4,11.4,86.8,66.7,78.2,Yes,3.99,Multiple,100.0,High Distinction
+STU0383,21,Male,Business Analytics,1,17.6,70.3,83.8,76.9,Yes,3.03,None,100.0,High Distinction
+STU0384,23,Male,Data Science,1,17.8,60.3,73.6,64.7,Yes,4.0,Sports,100.0,High Distinction
+STU0385,22,Female,Computer Science,1,10.8,87.5,70.4,69.0,Yes,3.09,None,88.3,Distinction
+STU0386,22,Male,Business Analytics,4,10.7,83.1,69.3,62.4,Yes,2.88,Volunteer,95.2,Distinction
+STU0387,20,Male,Computer Science,2,14.3,79.4,81.7,45.8,Yes,2.77,Sports,100.0,High Distinction
+STU0388,19,Male,Information Technology,2,9.6,86.2,76.2,71.9,Yes,3.79,Sports,100.0,High Distinction
+STU0389,22,Female,Data Science,4,20.1,83.5,100.0,96.4,Yes,2.7,Sports,100.0,High Distinction
+STU0390,22,Male,Software Engineering,4,12.8,94.2,60.9,54.7,Yes,3.38,Multiple,91.3,Distinction
+STU0391,25,Male,Computer Science,2,2.0,84.8,78.7,56.4,Yes,2.8,Club,74.0,Distinction
+STU0392,20,Male,Information Technology,3,12.8,77.3,65.1,54.9,Yes,2.84,Club,100.0,Distinction
+STU0393,20,Male,Data Science,3,8.8,92.9,60.7,78.9,Yes,3.51,Multiple,95.9,High Distinction
+STU0394,22,Female,Computer Science,3,5.2,82.0,71.9,74.7,No,2.88,Multiple,84.7,Distinction
+STU0395,20,Female,Business Analytics,1,7.6,88.7,73.8,65.6,Yes,2.87,Sports,83.9,Distinction
+STU0396,24,Male,Data Science,4,15.7,79.7,100.0,54.2,Yes,3.56,Multiple,100.0,High Distinction
+STU0397,23,Male,Business Analytics,2,23.0,78.2,69.6,69.4,Yes,3.77,None,100.0,High Distinction
+STU0398,20,Female,Computer Science,2,16.9,84.8,57.3,44.5,Yes,3.34,Sports,100.0,Distinction
+STU0399,22,Female,Information Technology,2,11.4,84.1,75.5,70.2,Yes,2.76,Multiple,100.0,High Distinction
+STU0400,22,Male,Data Science,1,,88.3,45.0,81.1,Yes,2.82,None,100.0,Distinction
+STU0401,19,Female,Business Analytics,1,12.2,81.6,70.8,49.2,Yes,3.09,None,93.6,Distinction
+STU0402,23,Male,Computer Science,3,10.8,67.5,72.2,45.0,Yes,3.19,Sports,85.0,Distinction
+STU0403,21,Female,Data Science,1,8.1,80.1,82.3,91.7,Yes,2.61,Club,87.9,High Distinction
+STU0404,22,Female,Computer Science,2,4.5,91.1,84.7,58.8,No,3.38,Sports,80.9,Distinction
+STU0405,20,Female,Data Science,2,12.7,81.3,65.5,85.0,Yes,3.09,Volunteer,100.0,High Distinction
+STU0406,23,Female,Computer Science,1,15.9,81.8,70.0,65.7,No,2.28,Multiple,98.1,High Distinction
+STU0407,20,Male,Software Engineering,4,14.4,92.9,62.0,65.6,Yes,2.63,Club,100.0,Distinction
+STU0408,18,Female,Information Technology,1,12.5,77.6,57.3,74.6,Yes,2.82,None,93.7,Distinction
+STU0409,23,Female,Information Technology,2,9.3,70.1,76.0,54.7,Yes,3.02,Multiple,95.6,Distinction
+STU0410,19,Male,Computer Science,2,18.6,82.6,55.4,70.0,Yes,3.9,None,100.0,Distinction
+STU0411,20,Female,Information Technology,1,7.1,79.6,66.6,62.3,Yes,3.16,None,92.8,Distinction
+STU0412,24,Female,Software Engineering,1,19.7,75.3,59.1,48.2,Yes,2.67,None,88.1,Credit
+STU0413,24,Male,Software Engineering,3,9.0,82.4,79.1,73.1,Yes,3.15,Club,70.4,Distinction
+STU0414,21,Female,Information Technology,4,10.5,88.4,95.4,64.1,Yes,2.89,None,100.0,High Distinction
+STU0415,21,Male,Information Technology,1,6.2,83.9,55.1,65.6,Yes,3.2,None,75.5,Credit
+STU0416,20,Male,Data Science,3,12.0,86.8,47.9,49.8,Yes,3.31,Sports,89.8,Credit
+STU0417,20,Male,Software Engineering,3,20.9,100.0,70.4,91.9,Yes,3.59,None,100.0,High Distinction
+STU0418,20,Male,Business Analytics,4,18.1,80.9,72.2,81.2,Yes,3.04,Club,100.0,High Distinction
+STU0419,21,Female,Information Technology,2,20.9,86.5,74.8,82.5,Yes,3.79,Volunteer,100.0,High Distinction
+STU0420,22,Male,Information Technology,2,18.1,79.4,66.2,63.4,Yes,3.46,Volunteer,100.0,High Distinction
+STU0421,22,Female,Data Science,2,8.4,76.4,69.4,42.1,Yes,2.73,None,87.6,Distinction
+STU0422,22,Female,Computer Science,3,13.0,78.7,76.8,97.3,Yes,4.0,None,100.0,High Distinction
+STU0423,19,Female,Business Analytics,4,10.3,79.7,85.5,67.1,Yes,3.2,Multiple,96.8,High Distinction
+STU0424,21,Female,Information Technology,1,23.0,87.2,46.6,56.8,Yes,2.67,None,100.0,Distinction
+STU0425,18,Female,Data Science,2,7.8,100.0,67.2,74.3,Yes,3.79,Multiple,93.7,High Distinction
+STU0426,21,Female,Computer Science,4,20.4,77.6,74.8,85.5,Yes,3.98,None,100.0,High Distinction
+STU0427,20,Female,Business Analytics,4,20.4,80.3,60.1,67.7,Yes,3.04,Multiple,100.0,Distinction
+STU0428,23,Female,Business Analytics,4,26.0,83.4,94.5,87.2,Yes,2.82,Sports,100.0,High Distinction
+STU0429,20,Female,Data Science,3,12.5,87.6,63.7,84.2,Yes,2.97,Sports,100.0,High Distinction
+STU0430,19,Female,Computer Science,2,19.3,86.4,71.5,51.9,Yes,3.37,Club,100.0,Distinction
+STU0431,19,Male,Business Analytics,3,28.7,95.6,79.2,57.9,Yes,3.63,Club,100.0,High Distinction
+STU0432,22,Male,Business Analytics,3,11.3,62.2,64.3,82.4,Yes,3.31,Sports,93.3,High Distinction
+STU0433,21,Male,Business Analytics,1,5.8,62.5,48.0,27.3,Yes,3.1,Club,73.0,Pass
+STU0434,19,Female,Business Analytics,2,3.7,79.5,66.4,65.8,Yes,3.72,Volunteer,88.9,Distinction
+STU0435,19,Male,Data Science,3,19.3,93.9,85.4,46.5,No,2.91,None,100.0,High Distinction
+STU0436,22,Male,Data Science,1,3.7,69.9,67.6,60.9,Yes,3.51,None,75.3,Distinction
+STU0437,18,Male,Information Technology,3,12.8,56.9,61.0,63.5,Yes,2.92,Sports,86.3,Distinction
+STU0438,22,Female,Software Engineering,3,17.6,89.1,84.0,62.6,Yes,3.24,None,100.0,High Distinction
+STU0439,22,Female,Business Analytics,4,16.1,86.2,67.7,59.7,Yes,3.0,Club,100.0,Distinction
+STU0440,19,Female,Computer Science,1,17.6,74.2,65.4,51.5,Yes,3.02,None,100.0,Distinction
+STU0441,19,Female,Computer Science,1,16.3,75.1,73.9,100.0,Yes,2.88,Sports,100.0,High Distinction
+STU0442,25,Male,Information Technology,3,22.7,75.3,82.0,96.0,Yes,3.66,None,100.0,High Distinction
+STU0443,20,Male,Data Science,2,9.3,85.0,100.0,50.6,Yes,2.72,Club,100.0,High Distinction
+STU0444,20,Male,Data Science,3,46.0,78.4,82.8,91.7,Yes,2.72,None,100.0,High Distinction
+STU0445,22,Male,Data Science,3,10.4,,87.1,62.0,Yes,4.0,None,100.0,High Distinction
+STU0446,24,Female,Business Analytics,1,20.0,58.3,65.4,69.9,Yes,3.49,None,100.0,High Distinction
+STU0447,25,Female,Information Technology,2,20.4,76.3,58.7,67.1,Yes,1.98,Multiple,100.0,Distinction
+STU0448,22,Female,Computer Science,2,17.7,73.9,72.8,58.1,Yes,2.8,None,94.4,Distinction
+STU0449,20,Male,Information Technology,2,22.1,81.7,73.4,82.8,No,2.23,Club,100.0,High Distinction
+STU0450,19,Female,Information Technology,4,7.9,79.2,58.0,69.9,Yes,2.62,None,92.2,Distinction
+STU0451,22,Female,Computer Science,4,25.0,91.2,69.7,60.9,Yes,1.64,None,97.9,Distinction
+STU0452,21,Male,Computer Science,3,24.1,67.3,77.2,48.4,Yes,2.99,Sports,100.0,High Distinction
+STU0453,20,Male,Business Analytics,3,19.4,84.4,76.7,54.6,Yes,2.54,Sports,100.0,High Distinction
+STU0454,23,Female,Data Science,2,25.7,89.0,78.6,43.4,Yes,3.08,Multiple,100.0,Distinction
+STU0455,19,Female,Software Engineering,4,5.1,100.0,75.8,68.2,No,2.32,Multiple,85.5,Distinction
+STU0456,21,Female,Software Engineering,3,11.9,79.7,65.4,50.1,Yes,3.09,Volunteer,100.0,Distinction
+STU0457,18,Female,Data Science,3,10.6,86.9,65.3,64.0,Yes,2.86,Club,92.9,Distinction
+STU0458,20,Female,Information Technology,4,19.3,67.8,56.4,88.6,Yes,3.73,Sports,100.0,High Distinction
+STU0459,18,Female,Business Analytics,1,8.7,62.5,95.2,86.0,Yes,3.69,Sports,100.0,High Distinction
+STU0460,19,Male,Data Science,4,19.5,91.6,72.2,67.5,Yes,3.4,Multiple,100.0,High Distinction
+STU0461,19,Male,Computer Science,1,,83.9,69.1,66.7,Yes,2.9,Club,100.0,High Distinction
+STU0462,21,Male,Information Technology,2,19.2,94.6,59.9,96.2,No,3.94,Club,100.0,High Distinction
+STU0463,22,Female,Software Engineering,2,16.7,71.6,100.0,75.8,Yes,2.35,None,100.0,High Distinction
+STU0464,21,Male,Information Technology,4,9.1,88.7,58.0,63.1,Yes,2.42,None,89.1,Distinction
+STU0465,24,Female,Business Analytics,4,9.9,100.0,66.4,46.6,Yes,3.01,Multiple,86.4,Distinction
+STU0466,20,Female,Business Analytics,3,22.5,87.8,77.4,73.9,Yes,4.0,Sports,100.0,High Distinction
+STU0467,20,Male,Computer Science,3,19.7,86.5,79.8,80.4,No,2.96,Sports,100.0,High Distinction
+STU0468,23,Female,Information Technology,3,14.8,84.1,84.5,58.5,Yes,2.97,None,94.1,High Distinction
+STU0469,19,Female,Information Technology,4,12.5,69.9,95.5,72.4,Yes,2.4,Volunteer,88.3,High Distinction
+STU0470,24,Male,Computer Science,2,2.8,96.2,78.6,62.5,Yes,3.48,None,84.9,Distinction
+STU0471,18,Male,Computer Science,2,8.6,78.5,58.3,65.2,Yes,3.48,Volunteer,94.9,Distinction
+STU0472,24,Male,Software Engineering,1,26.5,88.5,68.7,30.7,Yes,3.41,None,100.0,Distinction
+STU0473,18,Female,Information Technology,3,7.3,69.9,76.0,64.7,Yes,2.77,Multiple,79.2,Distinction
+STU0474,23,Male,Business Analytics,3,16.1,73.4,98.9,82.5,Yes,2.73,Volunteer,100.0,High Distinction
+STU0475,21,Male,Information Technology,2,21.0,96.9,53.8,58.5,Yes,2.47,None,100.0,Distinction
+STU0476,25,Female,Software Engineering,1,7.5,80.9,87.6,68.8,Yes,3.09,Club,92.9,High Distinction
+STU0477,18,Male,Information Technology,4,16.1,97.1,74.3,56.7,Yes,2.56,Sports,100.0,High Distinction
+STU0478,21,Male,Information Technology,1,20.6,83.3,82.9,73.4,Yes,2.52,None,100.0,High Distinction
+STU0479,24,Male,Software Engineering,3,15.1,67.4,70.7,64.8,Yes,2.86,Multiple,100.0,High Distinction
+STU0480,21,Female,Software Engineering,4,32.2,92.0,61.0,53.9,Yes,2.83,Sports,100.0,Distinction
+STU0481,21,Female,Computer Science,2,5.0,78.7,81.8,88.0,Yes,2.81,Sports,85.2,High Distinction
+STU0482,22,Female,Data Science,1,21.4,90.3,80.5,81.9,Yes,3.26,None,100.0,High Distinction
+STU0483,20,Female,Information Technology,3,14.0,84.2,84.6,58.9,Yes,3.09,Sports,96.7,High Distinction
+STU0484,21,Male,Business Analytics,4,19.6,70.1,71.8,75.5,Yes,2.92,Multiple,100.0,High Distinction
+STU0485,21,Female,Computer Science,2,17.6,85.5,64.2,76.1,Yes,3.13,Sports,100.0,High Distinction
+STU0486,23,Female,Computer Science,4,10.6,100.0,51.7,77.6,Yes,2.6,Multiple,86.4,Distinction
+STU0487,18,Male,Data Science,1,16.4,88.4,82.7,42.6,Yes,3.1,Multiple,100.0,High Distinction
+STU0488,20,Male,Business Analytics,2,3.9,83.5,77.5,83.1,Yes,3.12,None,89.4,High Distinction
+STU0489,24,Male,Information Technology,3,18.6,93.7,59.4,59.5,Yes,2.37,None,100.0,Distinction
+STU0490,23,Female,Data Science,4,16.8,85.9,65.0,62.6,Yes,3.5,Multiple,100.0,Distinction
+STU0491,20,Female,Data Science,1,18.8,85.9,65.9,100.0,Yes,2.65,Sports,100.0,High Distinction
+STU0492,21,Female,Computer Science,4,21.3,74.2,52.7,72.5,Yes,3.09,None,100.0,Distinction
+STU0493,20,Male,Business Analytics,3,17.2,86.1,61.4,62.2,Yes,3.57,None,100.0,Distinction
+STU0494,19,Male,Computer Science,2,15.9,93.3,57.3,34.9,No,3.47,Club,94.1,Credit
+STU0495,20,Female,Data Science,1,9.7,76.5,66.6,88.8,Yes,3.07,Volunteer,100.0,High Distinction
+STU0496,20,Male,Data Science,4,10.7,96.8,62.4,47.8,Yes,2.89,None,86.8,Credit
+STU0497,21,Male,Software Engineering,1,22.1,83.2,50.8,52.9,Yes,3.48,None,100.0,Distinction
+STU0498,18,Male,Computer Science,2,23.6,76.0,98.3,63.0,Yes,3.35,Multiple,100.0,High Distinction
+STU0499,24,Female,Computer Science,2,13.6,93.0,88.3,89.2,Yes,2.77,Volunteer,100.0,High Distinction
+STU0500,25,Male,Information Technology,4,15.3,81.4,61.9,79.6,Yes,2.69,Club,100.0,High Distinction
+STU0501,22,Male,Information Technology,3,9.6,90.8,75.5,65.6,Yes,2.12,Volunteer,94.6,High Distinction
+STU0502,21,Female,Information Technology,3,22.0,81.4,77.4,72.6,Yes,3.12,Sports,100.0,High Distinction
+STU0503,20,Female,Software Engineering,1,19.0,83.5,87.5,59.0,Yes,3.01,Volunteer,100.0,High Distinction
+STU0504,22,Male,Information Technology,3,26.6,88.4,61.4,70.1,Yes,3.56,Sports,100.0,High Distinction
+STU0505,22,Male,Information Technology,3,9.7,86.6,86.2,69.1,No,3.21,None,100.0,High Distinction
+STU0506,19,Female,Data Science,4,12.7,66.0,64.9,82.5,Yes,3.65,Volunteer,95.9,High Distinction
+STU0507,23,Female,Information Technology,4,16.4,73.9,54.6,82.5,Yes,2.74,Sports,100.0,High Distinction
+STU0508,22,Male,Data Science,1,18.9,92.4,81.4,75.4,Yes,3.56,Multiple,100.0,High Distinction
+STU0509,24,Male,Computer Science,3,13.7,82.8,88.8,62.6,Yes,2.81,Sports,100.0,High Distinction
+STU0510,22,Male,Business Analytics,1,9.8,79.3,100.0,79.1,Yes,3.4,Multiple,100.0,High Distinction
+STU0511,21,Male,Computer Science,2,20.3,71.8,56.4,66.6,Yes,2.39,Multiple,100.0,Distinction
+STU0512,20,Female,Computer Science,2,19.3,74.3,81.1,51.8,Yes,3.16,None,100.0,High Distinction
+STU0513,24,Male,Software Engineering,2,9.5,65.8,66.7,62.0,Yes,2.16,Volunteer,82.5,Distinction
+STU0514,23,Male,Computer Science,2,23.1,83.1,82.2,69.3,Yes,2.93,Sports,100.0,High Distinction
+STU0515,18,Female,Business Analytics,3,22.0,78.6,52.9,81.7,Yes,3.25,Multiple,100.0,Distinction
+STU0516,18,Male,Information Technology,2,15.8,75.3,55.6,65.2,Yes,2.82,Sports,100.0,Distinction
+STU0517,20,Female,Information Technology,3,15.5,83.4,61.9,49.9,No,2.58,Volunteer,93.5,Distinction
+STU0518,22,Male,Software Engineering,2,18.3,87.3,73.0,68.9,Yes,3.43,Sports,100.0,High Distinction
+STU0519,25,Male,Computer Science,1,9.8,100.0,63.7,69.7,Yes,3.0,None,100.0,High Distinction
+STU0520,19,Female,Data Science,3,15.2,70.4,80.6,70.8,Yes,2.83,None,94.4,High Distinction
+STU0521,21,Female,Software Engineering,2,2.1,94.4,85.3,81.8,Yes,3.07,Sports,83.7,High Distinction
+STU0522,20,Male,Business Analytics,2,20.3,92.8,79.8,83.3,Yes,4.0,Volunteer,100.0,High Distinction
+STU0523,24,Male,Software Engineering,3,5.6,77.0,93.0,59.1,Yes,3.57,Club,93.5,High Distinction
+STU0524,23,Male,Computer Science,2,24.0,85.8,77.4,58.8,No,3.57,Club,100.0,High Distinction
+STU0525,23,Female,Information Technology,1,13.0,79.9,56.2,52.4,No,3.25,None,81.5,Credit
+STU0526,20,Male,Information Technology,2,13.7,85.7,89.7,78.5,Yes,3.12,Sports,100.0,High Distinction
+STU0527,20,Female,Data Science,4,11.2,97.6,64.1,89.7,Yes,1.97,None,100.0,High Distinction
+STU0528,20,Female,Software Engineering,3,13.3,89.5,83.8,63.3,Yes,2.74,Volunteer,95.2,High Distinction
+STU0529,18,Male,Information Technology,3,23.5,88.6,92.5,64.4,Yes,2.83,Multiple,100.0,High Distinction
+STU0530,23,Female,Data Science,3,2.0,80.1,77.9,90.0,Yes,2.21,Sports,80.1,High Distinction
+STU0531,22,Male,Computer Science,1,22.7,70.6,52.5,75.6,Yes,2.53,None,100.0,Distinction
+STU0532,25,Male,Business Analytics,2,17.0,82.1,60.1,74.5,No,2.16,None,89.1,Distinction
+STU0533,25,Male,Business Analytics,3,7.8,94.9,89.2,50.1,Yes,3.03,Club,100.0,High Distinction
+STU0534,21,Male,Software Engineering,1,8.5,70.3,69.8,78.2,Yes,3.42,Club,100.0,High Distinction
+STU0535,22,Male,Business Analytics,1,25.1,74.5,73.0,54.1,Yes,3.55,Volunteer,100.0,High Distinction
+STU0536,24,Female,Information Technology,1,9.3,85.1,81.9,51.0,No,3.24,None,88.9,Distinction
+STU0537,23,Female,Computer Science,2,8.1,75.1,81.1,62.8,Yes,2.62,Volunteer,87.7,High Distinction
+STU0538,19,Male,Computer Science,4,21.8,76.9,75.6,59.2,Yes,2.18,Club,100.0,High Distinction
+STU0539,20,Male,Computer Science,1,17.0,80.2,69.3,64.7,Yes,2.26,Sports,97.8,High Distinction
+STU0540,19,Female,Information Technology,2,9.4,71.7,67.9,46.4,Yes,2.48,Club,79.7,Credit
+STU0541,24,Female,Software Engineering,1,16.3,75.2,83.2,82.4,Yes,2.65,None,100.0,High Distinction
+STU0542,21,Female,Business Analytics,4,8.8,90.3,79.2,84.9,Yes,2.98,Sports,100.0,High Distinction
+STU0543,19,Female,Business Analytics,1,21.6,72.2,68.7,38.8,Yes,2.59,Multiple,100.0,Distinction
+STU0544,21,Male,Computer Science,2,21.4,69.6,86.1,82.7,Yes,3.2,Sports,100.0,High Distinction
+STU0545,21,Male,Software Engineering,3,18.2,78.3,70.3,55.8,Yes,2.95,Volunteer,97.5,Distinction
+STU0546,20,Female,Data Science,3,17.2,90.6,60.9,80.9,Yes,3.05,Club,100.0,High Distinction
+STU0547,19,Male,Computer Science,2,25.6,82.2,62.1,67.0,Yes,3.56,None,100.0,Distinction
+STU0548,21,Female,Data Science,2,15.0,79.8,59.3,68.4,Yes,2.52,Club,88.7,Distinction
+STU0549,21,Male,Business Analytics,2,7.9,84.4,68.5,65.2,No,3.24,Sports,92.7,Distinction
+STU0550,22,Female,Computer Science,1,17.7,68.3,88.0,86.2,Yes,3.04,Sports,100.0,High Distinction
+STU0551,21,Male,Information Technology,1,27.5,88.5,61.5,49.4,Yes,2.9,None,100.0,Distinction
+STU0552,23,Female,Business Analytics,2,8.9,87.5,74.5,77.1,Yes,3.45,Sports,100.0,High Distinction
+STU0553,21,Female,Computer Science,1,12.8,80.3,63.5,84.5,Yes,3.45,None,100.0,High Distinction
+STU0554,21,Male,Software Engineering,2,17.5,93.1,68.6,78.7,Yes,2.62,None,100.0,High Distinction
+STU0555,23,Female,Software Engineering,3,14.7,73.9,52.4,100.0,Yes,2.97,Sports,100.0,High Distinction
+STU0556,20,Male,Data Science,4,9.1,94.2,69.1,60.1,Yes,3.18,Sports,100.0,High Distinction
+STU0557,19,Male,Business Analytics,3,21.7,85.4,69.5,82.4,Yes,2.93,Multiple,100.0,High Distinction
+STU0558,18,Female,Information Technology,1,28.9,81.0,79.0,66.4,Yes,3.31,Sports,100.0,High Distinction
+STU0559,22,Male,Data Science,1,16.2,83.8,74.9,86.5,Yes,3.18,Volunteer,100.0,High Distinction
+STU0560,21,Male,Business Analytics,4,9.6,83.0,56.4,67.9,Yes,3.87,Club,93.3,Distinction
+STU0561,22,Male,Computer Science,2,5.7,95.0,86.1,62.2,Yes,2.36,Club,86.7,High Distinction
+STU0562,19,Male,Business Analytics,1,16.5,74.3,74.7,87.6,Yes,2.99,None,100.0,High Distinction
+STU0563,19,Male,Data Science,3,21.6,77.1,74.6,60.6,No,2.64,Multiple,100.0,High Distinction
+STU0564,18,Female,Information Technology,3,17.9,93.3,71.9,46.8,Yes,3.32,Club,100.0,Distinction
+STU0565,20,Male,Computer Science,3,15.0,78.6,65.3,60.2,Yes,2.32,Volunteer,83.1,Distinction
+STU0566,21,Male,Data Science,1,11.5,92.1,74.8,77.3,Yes,3.21,Sports,100.0,High Distinction
+STU0567,20,Male,Computer Science,1,8.4,99.3,78.2,88.9,Yes,2.77,None,100.0,High Distinction
+STU0568,20,Male,Information Technology,4,20.0,80.4,49.3,69.7,Yes,2.72,Club,100.0,Distinction
+STU0569,23,Male,Computer Science,1,20.5,90.1,65.0,87.8,Yes,2.4,None,100.0,High Distinction
+STU0570,20,Female,Information Technology,3,5.7,73.6,68.7,47.6,Yes,2.84,Sports,76.7,Credit
+STU0571,21,Male,Data Science,3,24.5,90.8,75.3,61.4,No,3.54,None,100.0,High Distinction
+STU0572,22,Female,Business Analytics,3,18.4,85.8,87.5,63.7,Yes,,Club,100.0,High Distinction
+STU0573,20,Female,Computer Science,2,23.4,88.3,62.0,66.3,Yes,3.33,Multiple,100.0,Distinction
+STU0574,21,Female,Software Engineering,1,6.9,78.2,65.5,69.3,Yes,3.8,Sports,87.4,Distinction
+STU0575,23,Female,Software Engineering,3,6.8,69.1,65.3,78.4,Yes,3.17,Volunteer,93.7,High Distinction
+STU0576,24,Male,Software Engineering,4,14.1,88.5,61.6,61.3,Yes,2.8,Sports,93.3,Distinction
+STU0577,19,Female,Computer Science,4,18.0,65.4,67.5,70.1,Yes,3.26,Sports,100.0,High Distinction
+STU0578,23,Female,Information Technology,1,25.8,81.1,82.0,67.3,Yes,2.81,Multiple,100.0,High Distinction
+STU0579,21,Male,Software Engineering,1,19.2,92.5,58.3,54.1,Yes,2.82,Multiple,100.0,Distinction
+STU0580,19,Male,Data Science,4,13.5,85.7,77.6,66.3,Yes,2.37,Volunteer,100.0,High Distinction
+STU0581,20,Male,Computer Science,3,8.8,100.0,49.9,65.8,Yes,3.47,None,85.5,Credit
+STU0582,25,Female,Computer Science,4,22.4,93.2,64.7,65.5,Yes,2.88,Club,100.0,High Distinction
+STU0583,21,Male,Business Analytics,1,9.2,78.1,67.7,68.5,Yes,3.13,None,89.1,Distinction
+STU0584,20,Male,Software Engineering,3,24.8,,93.8,69.1,Yes,2.58,Sports,100.0,High Distinction
+STU0585,21,Female,Business Analytics,3,13.3,83.6,68.4,61.5,Yes,3.25,Sports,100.0,High Distinction
+STU0586,19,Male,Business Analytics,3,24.5,69.8,43.4,87.1,Yes,2.71,Volunteer,100.0,Distinction
+STU0587,18,Male,Computer Science,2,19.1,75.5,46.0,50.5,Yes,2.99,Multiple,97.7,Credit
+STU0588,19,Male,Data Science,1,14.2,79.0,72.4,57.2,Yes,3.45,Sports,90.2,Distinction
+STU0589,19,Male,Software Engineering,3,11.9,65.7,80.0,100.0,Yes,3.41,None,92.3,High Distinction
+STU0590,19,Female,Information Technology,1,13.0,84.4,76.9,52.4,Yes,3.04,Multiple,94.3,Distinction
+STU0591,19,Male,Data Science,2,17.6,81.8,74.2,47.7,Yes,2.25,None,97.5,Distinction
+STU0592,21,Male,Software Engineering,4,15.5,68.9,87.1,79.0,Yes,4.0,Club,100.0,High Distinction
+STU0593,19,Female,Computer Science,2,11.4,87.6,65.0,36.8,Yes,3.84,None,100.0,Distinction
+STU0594,20,Male,Business Analytics,4,14.0,,83.6,64.5,Yes,3.38,Sports,100.0,High Distinction
+STU0595,23,Female,Information Technology,1,15.5,86.0,50.8,100.0,No,2.71,Multiple,97.3,High Distinction
+STU0596,20,Male,Data Science,3,2.2,81.1,60.2,44.8,Yes,3.0,None,65.2,Pass
+STU0597,21,Female,Business Analytics,4,17.7,89.3,48.5,38.3,Yes,2.81,Sports,97.4,Credit
+STU0598,19,Female,Business Analytics,1,9.1,90.1,68.4,45.5,Yes,3.62,Sports,97.8,Distinction
+STU0599,19,Female,Data Science,1,8.1,86.8,71.4,81.5,No,3.17,Multiple,96.5,High Distinction
+STU0600,18,Female,Information Technology,2,4.9,76.6,73.5,84.9,Yes,2.7,Multiple,80.6,High Distinction
+STU0601,19,Male,Software Engineering,1,4.2,86.5,72.8,60.3,Yes,2.84,None,87.5,Distinction
+STU0602,20,Female,Business Analytics,3,6.9,94.8,59.9,78.2,Yes,3.55,None,99.2,High Distinction
+STU0603,19,Male,Computer Science,4,10.7,78.6,69.5,88.9,Yes,3.77,Club,98.8,High Distinction
+STU0604,19,Female,Data Science,2,26.7,100.0,52.5,94.8,No,3.74,Sports,100.0,High Distinction
+STU0605,19,Female,Data Science,1,11.8,79.3,89.7,64.3,Yes,3.39,Club,100.0,High Distinction
+STU0606,20,Female,Information Technology,2,16.1,84.3,68.1,33.5,Yes,2.94,None,94.5,Distinction
+STU0607,19,Male,Software Engineering,3,17.4,77.9,65.6,55.7,No,1.59,None,100.0,Distinction
+STU0608,20,Female,Software Engineering,1,15.8,86.0,92.7,61.6,Yes,3.18,Club,100.0,High Distinction
+STU0609,21,Male,Information Technology,3,14.5,68.3,55.9,64.1,Yes,3.05,None,92.4,Distinction
+STU0610,22,Male,Software Engineering,3,7.8,79.1,57.4,65.2,Yes,3.11,Multiple,87.1,Distinction
+STU0611,18,Male,Computer Science,3,23.7,74.2,57.7,84.8,No,3.07,None,100.0,High Distinction
+STU0612,22,Male,Computer Science,1,25.8,85.2,71.1,87.1,Yes,2.45,None,100.0,High Distinction
+STU0613,21,Male,Computer Science,3,4.9,93.0,77.6,65.4,Yes,3.3,Multiple,85.0,Distinction
+STU0614,19,Male,Software Engineering,1,8.9,89.8,81.6,84.5,Yes,3.33,Sports,100.0,High Distinction
+STU0615,23,Male,Data Science,1,13.3,62.7,100.0,73.4,Yes,3.36,Club,100.0,High Distinction
+STU0616,23,Male,Computer Science,4,,100.0,42.8,69.0,Yes,3.48,None,98.5,Distinction
+STU0617,18,Male,Information Technology,3,18.0,86.7,79.9,81.6,Yes,3.32,Club,100.0,High Distinction
+STU0618,20,Female,Business Analytics,1,10.6,77.0,64.8,69.1,No,2.87,Volunteer,85.2,Distinction
+STU0619,22,Female,Computer Science,1,28.0,85.4,64.4,98.9,Yes,3.02,Sports,100.0,High Distinction
+STU0620,22,Female,Software Engineering,1,22.1,85.6,63.9,46.4,Yes,3.09,Volunteer,100.0,Distinction
+STU0621,19,Female,Data Science,1,16.3,78.0,60.2,60.3,Yes,,Club,94.4,Distinction
+STU0622,19,Female,Business Analytics,1,21.2,85.8,93.9,66.1,Yes,3.5,Sports,100.0,High Distinction
+STU0623,20,Male,Software Engineering,1,21.6,78.5,82.9,74.6,Yes,3.34,Club,100.0,High Distinction
+STU0624,21,Male,Information Technology,2,11.6,80.4,72.3,87.0,Yes,3.98,Club,100.0,High Distinction
+STU0625,21,Male,Software Engineering,3,10.1,77.8,89.6,67.6,Yes,4.0,None,100.0,High Distinction
+STU0626,20,Male,Data Science,3,15.5,71.1,52.3,46.7,Yes,3.09,Sports,94.6,Credit
+STU0627,20,Male,Business Analytics,3,,85.3,54.7,80.6,Yes,1.5,Sports,94.7,Distinction
+STU0628,22,Male,Computer Science,1,15.8,89.3,43.7,79.3,Yes,3.61,Sports,100.0,Distinction
+STU0629,18,Male,Software Engineering,4,5.5,88.6,62.9,38.9,Yes,2.81,Volunteer,74.7,Credit
+STU0630,19,Female,Information Technology,4,10.2,91.4,74.1,67.9,Yes,2.69,Sports,83.7,Distinction
+STU0631,22,Female,Computer Science,4,14.6,86.9,73.3,44.1,Yes,2.87,Multiple,90.9,Distinction
+STU0632,23,Female,Computer Science,4,14.5,79.2,73.9,58.0,No,2.85,None,90.2,Distinction
+STU0633,21,Female,Business Analytics,4,26.8,91.6,53.7,54.5,Yes,3.33,Sports,100.0,Distinction
+STU0634,21,Male,Business Analytics,2,6.7,71.8,82.4,80.1,Yes,2.35,Volunteer,89.9,High Distinction
+STU0635,19,Male,Data Science,1,18.0,75.9,75.1,69.8,Yes,2.57,Club,100.0,High Distinction
+STU0636,20,Male,Software Engineering,3,23.9,75.3,81.5,48.7,Yes,3.2,Club,100.0,High Distinction
+STU0637,21,Female,Computer Science,3,28.6,93.7,47.4,81.2,Yes,3.33,None,100.0,Distinction
+STU0638,19,Male,Data Science,3,12.6,92.5,76.0,46.5,Yes,3.34,Sports,100.0,Distinction
+STU0639,20,Male,Computer Science,2,17.9,88.4,56.6,73.0,No,2.7,None,88.4,Distinction
+STU0640,20,Male,Software Engineering,1,18.4,93.6,66.8,55.8,Yes,2.61,Multiple,100.0,Distinction
+STU0641,18,Female,Data Science,2,16.2,76.1,78.9,62.5,Yes,2.82,Sports,100.0,High Distinction
+STU0642,20,Male,Business Analytics,4,14.4,87.1,73.2,75.6,Yes,3.16,Multiple,100.0,High Distinction
+STU0643,19,Female,Data Science,3,17.6,82.9,60.9,75.8,Yes,3.72,Club,100.0,High Distinction
+STU0644,20,Female,Information Technology,2,2.0,91.6,72.1,88.1,Yes,2.13,Sports,80.3,High Distinction
+STU0645,19,Female,Business Analytics,1,19.1,83.0,52.1,66.8,Yes,2.95,Club,100.0,Distinction
+STU0646,23,Female,Software Engineering,2,15.8,80.5,87.0,72.6,Yes,2.45,Volunteer,100.0,High Distinction
+STU0647,21,Male,Information Technology,4,13.7,88.9,69.3,61.4,Yes,2.31,Multiple,100.0,High Distinction
+STU0648,21,Female,Information Technology,3,27.3,91.9,86.5,70.7,Yes,3.49,None,100.0,High Distinction
+STU0649,22,Female,Business Analytics,3,11.0,78.0,65.2,74.6,Yes,3.3,Sports,100.0,High Distinction
+STU0650,21,Male,Software Engineering,2,12.6,83.5,65.2,66.5,Yes,3.25,Sports,94.6,Distinction
+STU0651,19,Male,Information Technology,3,26.9,74.5,62.1,40.9,Yes,3.46,None,100.0,Distinction
+STU0652,21,Female,Computer Science,1,10.0,61.5,83.4,73.0,Yes,2.83,Club,99.6,High Distinction
+STU0653,21,Male,Data Science,3,11.7,85.8,62.8,73.5,Yes,2.86,Multiple,100.0,High Distinction
+STU0654,22,Female,Software Engineering,2,14.1,89.5,80.4,57.8,Yes,4.0,Sports,100.0,High Distinction
+STU0655,20,Female,Computer Science,2,20.0,86.4,67.0,48.7,Yes,2.94,Volunteer,98.3,Distinction
+STU0656,19,Female,Computer Science,3,16.2,66.5,46.3,90.1,Yes,3.38,Club,100.0,Distinction
+STU0657,20,Female,Computer Science,4,7.2,80.8,64.6,75.4,Yes,3.05,Sports,96.4,High Distinction
+STU0658,20,Male,Information Technology,1,11.8,64.0,56.7,64.6,Yes,2.22,None,84.8,Distinction
+STU0659,21,Female,Information Technology,4,11.4,96.3,72.4,50.9,Yes,2.13,Club,82.9,Distinction
+STU0660,21,Male,Data Science,2,14.5,74.2,56.5,55.7,Yes,2.79,Multiple,96.3,Distinction
+STU0661,20,Male,Data Science,2,17.6,95.3,84.0,87.5,Yes,3.53,Club,100.0,High Distinction
+STU0662,25,Male,Business Analytics,1,17.5,92.5,70.8,70.1,Yes,3.4,None,100.0,High Distinction
+STU0663,21,Male,Information Technology,2,4.3,75.9,69.7,59.7,Yes,3.46,None,95.0,Distinction
+STU0664,19,Female,Software Engineering,2,21.4,73.8,80.5,75.6,Yes,2.61,None,100.0,High Distinction
+STU0665,19,Male,Business Analytics,1,16.5,87.2,84.5,55.8,Yes,3.78,Club,100.0,High Distinction
+STU0666,19,Female,Software Engineering,2,23.3,76.4,71.7,90.5,Yes,2.62,Volunteer,100.0,High Distinction
+STU0667,19,Male,Business Analytics,4,17.7,84.9,62.0,88.3,Yes,,None,100.0,High Distinction
+STU0668,19,Male,Computer Science,1,21.6,79.7,48.9,61.0,Yes,3.05,Volunteer,100.0,Distinction
+STU0669,19,Female,Data Science,3,,68.0,63.1,58.6,Yes,2.97,Club,100.0,Distinction
+STU0670,20,Female,Information Technology,2,23.1,63.9,64.0,28.7,Yes,3.65,Club,100.0,Distinction
+STU0671,19,Female,Data Science,3,18.1,86.0,73.4,45.8,Yes,2.73,Multiple,91.4,Distinction
+STU0672,23,Male,Computer Science,1,14.4,78.9,67.5,47.9,Yes,2.44,None,91.6,Distinction
+STU0673,19,Male,Computer Science,1,28.6,79.0,80.9,70.0,Yes,3.06,Multiple,100.0,High Distinction
+STU0674,21,Female,Software Engineering,1,20.3,90.3,64.0,63.1,Yes,2.87,None,100.0,Distinction
+STU0675,20,Female,Computer Science,1,18.4,94.6,71.3,47.8,Yes,4.0,Sports,100.0,Distinction
+STU0676,25,Female,Software Engineering,1,7.3,81.5,87.4,63.8,Yes,3.35,Multiple,91.8,High Distinction
+STU0677,19,Female,Information Technology,3,7.3,80.9,76.4,75.6,Yes,2.87,Multiple,78.7,Distinction
+STU0678,20,Male,Data Science,4,16.8,88.5,71.2,75.9,Yes,2.57,Sports,100.0,High Distinction
+STU0679,24,Female,Data Science,4,15.9,71.8,64.2,39.5,Yes,2.2,Club,86.4,Credit
+STU0680,23,Female,Business Analytics,3,11.3,86.0,63.8,66.1,Yes,2.59,Club,91.0,Distinction
+STU0681,22,Female,Information Technology,1,15.8,89.0,60.9,47.2,Yes,3.1,Volunteer,100.0,Distinction
+STU0682,19,Female,Computer Science,2,24.5,90.1,65.0,81.5,Yes,3.69,None,100.0,High Distinction
+STU0683,19,Male,Computer Science,2,19.2,66.6,81.8,79.8,Yes,3.55,Volunteer,100.0,High Distinction
+STU0684,21,Female,Information Technology,1,8.2,77.1,69.1,54.5,Yes,3.15,Sports,86.2,Distinction
+STU0685,23,Male,Data Science,2,14.3,76.1,54.5,56.5,Yes,2.9,Sports,91.8,Distinction
+STU0686,21,Female,Software Engineering,2,10.2,84.9,95.0,61.1,Yes,3.17,Sports,100.0,High Distinction
+STU0687,21,Female,Software Engineering,2,12.7,88.3,76.2,34.2,Yes,2.82,Sports,86.5,Distinction
+STU0688,20,Male,Data Science,2,12.5,97.5,53.7,73.0,No,3.82,Multiple,100.0,Distinction
+STU0689,22,Female,Data Science,4,12.1,79.5,66.3,63.9,Yes,2.96,Club,99.0,Distinction
+STU0690,19,Male,Data Science,3,7.5,79.5,73.4,82.6,Yes,3.01,Multiple,96.2,High Distinction
+STU0691,20,Male,Information Technology,2,14.2,94.3,94.2,51.5,Yes,2.05,None,100.0,High Distinction
+STU0692,20,Female,Software Engineering,4,11.6,86.7,57.6,58.7,Yes,2.96,Volunteer,96.0,Distinction
+STU0693,21,Male,Data Science,4,2.0,95.4,84.7,45.4,Yes,3.43,Volunteer,71.6,Distinction
+STU0694,19,Male,Business Analytics,2,,86.6,90.2,52.9,Yes,2.57,Club,100.0,High Distinction
+STU0695,19,Male,Computer Science,2,21.5,73.6,63.8,50.3,Yes,2.71,Club,100.0,Distinction
+STU0696,21,Male,Information Technology,2,42.0,72.0,68.4,82.9,Yes,3.41,Club,96.4,High Distinction
+STU0697,20,Male,Business Analytics,4,15.1,70.0,58.5,57.5,Yes,2.39,Multiple,83.7,Credit
+STU0698,21,Male,Software Engineering,4,8.0,90.0,69.4,69.9,Yes,3.53,Volunteer,100.0,High Distinction
+STU0699,19,Male,Business Analytics,1,25.2,94.7,71.5,62.3,Yes,2.81,None,100.0,High Distinction
+STU0700,21,Male,Information Technology,2,26.4,100.0,80.6,49.0,Yes,2.88,Volunteer,100.0,High Distinction
+STU0701,21,Female,Software Engineering,3,15.9,91.6,86.2,65.5,No,2.54,Sports,100.0,High Distinction
+STU0702,18,Female,Computer Science,2,21.1,94.5,62.3,77.0,Yes,3.22,None,100.0,High Distinction
+STU0703,20,Male,Information Technology,1,16.1,78.8,46.4,49.9,Yes,4.0,Multiple,100.0,Credit
+STU0704,19,Female,Computer Science,4,7.0,73.6,71.7,80.1,Yes,3.4,Sports,95.8,High Distinction
+STU0705,18,Male,Data Science,3,12.5,91.7,75.8,55.3,No,,Volunteer,99.4,High Distinction
+STU0706,25,Male,Software Engineering,4,15.8,87.8,75.2,60.8,Yes,3.56,None,100.0,High Distinction
+STU0707,20,Female,Information Technology,4,12.3,85.0,67.8,76.0,Yes,2.91,None,91.1,High Distinction
+STU0708,22,Male,Software Engineering,3,13.7,87.5,73.6,58.0,Yes,3.67,Sports,100.0,High Distinction
+STU0709,19,Male,Information Technology,2,14.5,86.9,91.7,68.6,Yes,3.41,None,100.0,High Distinction
+STU0710,22,Male,Software Engineering,3,14.5,95.6,77.0,63.3,Yes,1.73,Volunteer,100.0,High Distinction
+STU0711,22,Male,Data Science,1,15.3,95.7,67.1,69.9,Yes,2.6,None,100.0,High Distinction
+STU0712,21,Female,Data Science,3,8.6,88.9,65.5,32.3,Yes,3.47,Sports,84.0,Credit
+STU0713,20,Male,Computer Science,1,10.7,91.6,69.8,40.6,Yes,3.12,None,88.6,Distinction
+STU0714,20,Male,Software Engineering,3,7.3,88.6,93.3,77.2,Yes,2.59,None,89.1,High Distinction
+STU0715,20,Male,Data Science,1,20.9,79.8,69.6,83.6,Yes,2.76,Volunteer,100.0,High Distinction
+STU0716,23,Female,Information Technology,1,2.4,90.8,71.7,54.3,Yes,2.19,None,77.4,Distinction
+STU0717,23,Male,Software Engineering,1,21.9,71.4,65.7,64.3,Yes,3.01,Club,100.0,High Distinction
+STU0718,24,Female,Information Technology,1,23.3,93.5,86.3,72.4,Yes,4.0,Multiple,100.0,High Distinction
+STU0719,19,Female,Software Engineering,3,13.2,73.2,97.5,78.4,Yes,3.41,Club,100.0,High Distinction
+STU0720,22,Male,Computer Science,3,2.0,86.6,77.9,37.6,Yes,4.0,Volunteer,74.7,Credit
+STU0721,24,Male,Data Science,2,12.8,76.4,73.1,54.7,Yes,,None,100.0,High Distinction
+STU0722,19,Female,Business Analytics,1,14.6,89.0,72.5,63.0,Yes,3.51,None,100.0,High Distinction
+STU0723,18,Male,Computer Science,1,8.9,83.7,41.0,78.5,Yes,3.94,Multiple,100.0,Distinction
+STU0724,22,Female,Information Technology,1,11.9,69.6,81.7,100.0,Yes,3.22,Club,99.5,High Distinction
+STU0725,21,Female,Computer Science,1,24.2,87.8,73.7,64.6,Yes,2.97,Club,100.0,High Distinction
+STU0726,23,Male,Business Analytics,4,50.0,78.8,77.6,46.9,Yes,3.51,Club,100.0,Distinction
+STU0727,19,Male,Information Technology,1,9.5,91.9,62.8,74.0,Yes,3.7,Sports,100.0,High Distinction
+STU0728,22,Female,Business Analytics,2,5.4,84.0,67.0,87.8,Yes,2.83,None,91.7,High Distinction
+STU0729,19,Female,Information Technology,1,13.0,87.6,66.7,69.6,Yes,2.73,Volunteer,92.5,Distinction
+STU0730,19,Female,Information Technology,1,13.7,75.4,85.3,54.4,Yes,3.11,Club,91.4,High Distinction
+STU0731,19,Female,Data Science,2,18.0,78.7,67.1,82.4,Yes,3.42,Sports,100.0,High Distinction
+STU0732,22,Male,Computer Science,3,11.8,79.9,99.1,78.0,No,3.41,Multiple,100.0,High Distinction
+STU0733,21,Male,Software Engineering,1,18.1,91.7,77.6,52.6,Yes,2.41,Sports,100.0,High Distinction
+STU0734,21,Male,Software Engineering,1,26.6,99.1,55.4,73.7,Yes,3.91,None,100.0,Distinction
+STU0735,20,Male,Data Science,2,19.9,76.8,70.3,83.0,Yes,2.76,Multiple,96.8,High Distinction
+STU0736,23,Male,Business Analytics,1,14.7,93.7,63.5,85.7,Yes,2.93,Volunteer,100.0,High Distinction
+STU0737,20,Female,Software Engineering,1,13.9,64.5,43.5,67.0,Yes,2.64,Sports,87.9,Credit
+STU0738,22,Male,Computer Science,4,12.9,73.3,92.8,62.6,Yes,4.0,None,100.0,High Distinction
+STU0739,20,Male,Computer Science,3,22.1,75.4,81.1,86.4,Yes,3.16,None,100.0,High Distinction
+STU0740,20,Male,Computer Science,3,11.2,71.8,78.9,49.8,Yes,2.67,Club,92.0,Distinction
+STU0741,20,Male,Data Science,2,15.3,69.7,74.2,74.6,Yes,3.44,Sports,100.0,High Distinction
+STU0742,20,Male,Computer Science,2,15.3,87.7,54.0,47.4,Yes,3.4,Volunteer,94.8,Credit
+STU0743,22,Female,Business Analytics,2,12.0,82.1,65.7,84.0,Yes,2.97,Multiple,100.0,High Distinction
+STU0744,21,Female,Software Engineering,3,6.8,87.4,82.9,64.1,No,3.43,Volunteer,92.9,High Distinction
+STU0745,19,Female,Software Engineering,3,16.9,90.2,58.3,87.0,Yes,2.68,Sports,94.4,High Distinction
+STU0746,23,Male,Business Analytics,1,14.6,86.4,39.1,75.4,Yes,2.83,Volunteer,92.5,Distinction
+STU0747,20,Female,Computer Science,2,18.0,89.9,69.0,49.7,Yes,2.15,Sports,93.9,Distinction
+STU0748,21,Female,Software Engineering,2,11.8,83.4,70.2,89.4,Yes,2.45,None,96.6,High Distinction
+STU0749,23,Male,Business Analytics,4,22.3,73.3,73.8,91.3,Yes,3.86,None,100.0,High Distinction
+STU0750,21,Male,Computer Science,3,9.7,93.5,81.5,81.2,Yes,3.79,Sports,100.0,High Distinction
+STU0751,19,Male,Computer Science,2,25.3,78.7,80.3,56.6,Yes,3.08,Multiple,100.0,High Distinction
+STU0752,24,Female,Software Engineering,1,4.5,75.6,75.4,63.4,No,3.8,None,94.5,High Distinction
+STU0753,21,Female,Data Science,3,17.6,82.4,87.5,70.2,Yes,2.98,None,100.0,High Distinction
+STU0754,20,Male,Software Engineering,1,17.9,75.8,52.3,57.4,Yes,2.94,Multiple,100.0,Distinction
+STU0755,19,Male,Software Engineering,2,10.2,80.2,78.6,93.4,Yes,3.08,None,99.7,High Distinction
+STU0756,22,Female,Business Analytics,1,17.5,87.1,80.1,70.2,Yes,2.99,Volunteer,100.0,High Distinction
+STU0757,21,Female,Business Analytics,3,22.7,87.1,55.9,27.4,Yes,2.95,Sports,100.0,Credit
+STU0758,21,Male,Information Technology,1,2.0,75.9,52.5,73.1,Yes,3.56,None,80.9,Distinction
+STU0759,23,Male,Information Technology,2,18.0,79.6,62.3,62.8,Yes,3.12,Multiple,100.0,Distinction
+STU0760,22,Female,Information Technology,4,2.0,93.7,63.4,66.9,Yes,3.37,None,86.8,Distinction
+STU0761,19,Male,Data Science,1,9.2,88.5,81.8,62.5,Yes,3.51,Club,94.7,High Distinction
+STU0762,20,Female,Business Analytics,2,24.8,100.0,64.0,80.1,Yes,3.22,None,100.0,High Distinction
+STU0763,19,Female,Software Engineering,2,11.5,94.6,60.9,84.8,Yes,2.61,None,100.0,High Distinction
+STU0764,22,Female,Information Technology,1,8.0,94.3,64.0,72.2,Yes,2.44,None,86.3,Distinction
+STU0765,18,Female,Business Analytics,3,13.8,71.5,86.5,62.9,Yes,3.12,None,100.0,High Distinction
+STU0766,21,Male,Business Analytics,1,27.4,90.9,72.2,67.4,Yes,2.97,None,100.0,High Distinction
+STU0767,22,Male,Business Analytics,2,4.0,83.5,69.7,68.3,Yes,3.09,Volunteer,83.1,Distinction
+STU0768,23,Female,Data Science,3,8.7,79.0,70.6,56.0,Yes,3.04,Sports,88.2,Distinction
+STU0769,20,Female,Computer Science,3,24.0,85.5,88.8,76.7,Yes,4.0,Sports,100.0,High Distinction
+STU0770,22,Female,Business Analytics,3,26.1,92.5,62.3,74.9,Yes,2.45,Sports,100.0,High Distinction
+STU0771,19,Female,Computer Science,1,14.4,88.5,89.1,91.1,Yes,2.15,Multiple,100.0,High Distinction
+STU0772,23,Female,Information Technology,1,7.6,76.1,74.7,86.8,Yes,3.2,Multiple,88.9,High Distinction
+STU0773,19,Male,Business Analytics,3,27.6,90.7,69.9,57.7,Yes,2.88,Club,100.0,Distinction
+STU0774,20,Male,Data Science,2,24.6,78.3,100.0,80.3,Yes,3.19,Multiple,100.0,High Distinction
+STU0775,22,Male,Software Engineering,4,19.1,86.0,58.3,53.7,Yes,3.31,Sports,100.0,Distinction
+STU0776,19,Male,Business Analytics,4,10.1,,67.4,78.4,Yes,3.63,Sports,99.6,High Distinction
+STU0777,19,Female,Data Science,4,14.7,82.0,56.0,60.3,Yes,2.37,Club,86.0,Distinction
+STU0778,22,Female,Business Analytics,2,14.0,90.9,84.4,52.7,Yes,2.8,Club,98.8,High Distinction
+STU0779,22,Female,Business Analytics,2,17.0,74.6,94.0,72.2,Yes,3.24,Sports,100.0,High Distinction
+STU0780,21,Female,Computer Science,3,23.7,100.0,93.7,27.9,Yes,3.4,Sports,100.0,High Distinction
+STU0781,22,Female,Information Technology,2,20.3,67.6,87.9,41.7,Yes,4.0,Multiple,100.0,High Distinction
+STU0782,21,Male,Information Technology,1,8.5,78.6,69.4,65.3,Yes,3.48,Volunteer,84.9,Distinction
+STU0783,19,Female,Business Analytics,4,23.3,87.3,67.3,69.2,Yes,3.02,Sports,100.0,High Distinction
+STU0784,20,Male,Computer Science,4,16.9,89.3,50.3,62.5,Yes,2.65,Volunteer,100.0,Distinction
+STU0785,19,Male,Computer Science,2,19.1,83.1,98.5,44.3,Yes,2.8,None,100.0,High Distinction
+STU0786,23,Male,Information Technology,1,23.8,83.5,78.1,55.7,Yes,2.78,None,100.0,High Distinction
+STU0787,21,Male,Software Engineering,2,8.3,87.7,65.6,73.9,Yes,3.34,Sports,97.6,High Distinction
+STU0788,20,Female,Information Technology,4,14.8,81.9,89.3,76.7,Yes,3.17,Sports,100.0,High Distinction
+STU0789,20,Male,Business Analytics,4,11.8,,59.4,67.8,Yes,2.45,None,86.6,Distinction
+STU0790,24,Male,Computer Science,1,5.6,91.6,77.3,85.4,Yes,2.85,Volunteer,93.5,High Distinction
+STU0791,19,Male,Business Analytics,1,17.1,91.9,69.8,74.0,Yes,3.44,Sports,100.0,High Distinction
+STU0792,21,Female,Information Technology,4,30.1,75.3,80.3,56.8,Yes,3.21,Club,100.0,High Distinction
+STU0793,21,Female,Computer Science,2,4.0,83.3,71.2,63.8,Yes,3.31,None,86.0,Distinction
+STU0794,21,Female,Business Analytics,2,14.8,81.3,53.1,47.0,Yes,3.22,None,89.0,Credit
+STU0795,18,Male,Computer Science,4,18.8,74.9,73.0,66.4,Yes,3.78,Multiple,100.0,High Distinction
+STU0796,23,Male,Computer Science,1,15.7,87.2,85.6,84.7,Yes,3.16,Club,100.0,High Distinction
+STU0797,24,Female,Computer Science,3,14.3,79.2,71.6,78.3,No,2.88,Multiple,100.0,High Distinction
+STU0798,21,Male,Computer Science,1,7.2,89.9,82.1,89.0,No,2.64,Multiple,100.0,High Distinction
+STU0799,22,Female,Computer Science,2,16.4,74.4,58.4,63.5,Yes,3.16,Sports,94.1,Distinction
+STU0800,23,Female,Information Technology,4,10.5,99.5,71.7,88.2,Yes,1.95,None,93.8,High Distinction
+STU0801,22,Male,Data Science,2,2.0,75.9,63.9,65.1,Yes,2.97,Multiple,80.2,Distinction
+STU0802,19,Male,Business Analytics,4,22.2,86.0,81.7,90.1,Yes,2.96,Multiple,100.0,High Distinction
+STU0803,21,Male,Business Analytics,3,20.8,91.1,72.4,67.7,Yes,2.44,Club,100.0,High Distinction
+STU0804,21,Male,Information Technology,2,15.3,,81.0,78.6,Yes,2.63,Volunteer,100.0,High Distinction
+STU0805,20,Female,Software Engineering,1,16.4,91.7,86.1,90.1,Yes,3.41,Volunteer,100.0,High Distinction
+STU0806,22,Female,Information Technology,2,21.4,72.9,81.0,65.1,Yes,3.15,Sports,100.0,High Distinction
+STU0807,24,Female,Computer Science,2,16.3,97.1,75.6,71.3,Yes,3.1,Club,95.2,High Distinction
+STU0808,23,Female,Business Analytics,1,20.4,84.1,59.0,87.3,Yes,3.19,Volunteer,100.0,High Distinction
+STU0809,20,Female,Computer Science,2,13.2,78.6,72.0,66.0,Yes,3.09,Club,100.0,High Distinction
+STU0810,19,Male,Information Technology,2,22.9,81.3,65.1,48.2,Yes,3.61,None,100.0,Distinction
+STU0811,25,Female,Business Analytics,3,16.9,91.3,67.5,100.0,Yes,3.11,Sports,100.0,High Distinction
+STU0812,23,Female,Software Engineering,3,16.2,78.7,67.1,61.0,Yes,2.39,None,94.9,Distinction
+STU0813,19,Female,Business Analytics,3,7.4,77.3,59.3,70.4,Yes,3.78,None,100.0,Distinction
+STU0814,23,Male,Data Science,1,16.7,82.0,46.6,85.3,Yes,3.22,Multiple,100.0,Distinction
+STU0815,23,Male,Software Engineering,1,10.0,73.4,63.3,58.9,Yes,2.78,None,91.8,Distinction
+STU0816,21,Male,Computer Science,3,11.2,100.0,74.5,52.9,Yes,2.49,None,97.0,Distinction
+STU0817,21,Male,Information Technology,2,10.1,78.9,54.5,71.8,Yes,3.23,Sports,88.5,Distinction
+STU0818,20,Female,Information Technology,1,8.6,91.5,72.2,41.1,Yes,3.0,Club,86.4,Distinction
+STU0819,18,Female,Information Technology,4,27.7,85.9,96.7,63.7,Yes,3.76,Club,100.0,High Distinction
+STU0820,20,Male,Information Technology,3,23.0,75.1,,71.7,Yes,2.89,None,100.0,High Distinction
+STU0821,22,Male,Software Engineering,2,26.5,83.9,93.4,64.0,Yes,2.67,None,100.0,High Distinction
+STU0822,18,Female,Data Science,1,7.7,91.1,77.1,44.8,Yes,3.45,None,99.3,Distinction
+STU0823,20,Female,Business Analytics,3,15.4,82.3,87.2,91.9,Yes,3.47,Sports,100.0,High Distinction
+STU0824,20,Male,Information Technology,3,7.2,94.7,62.6,69.6,Yes,3.13,None,93.7,Distinction
+STU0825,21,Male,Software Engineering,3,10.8,93.2,63.6,89.5,Yes,3.35,Multiple,100.0,High Distinction
+STU0826,23,Male,Software Engineering,3,9.5,92.3,36.4,64.1,Yes,3.03,Sports,91.4,Credit
+STU0827,20,Male,Software Engineering,4,22.4,79.9,87.4,54.8,No,3.16,None,100.0,High Distinction
+STU0828,20,Female,Computer Science,2,12.6,74.3,92.0,72.0,Yes,3.57,Volunteer,100.0,High Distinction
+STU0829,22,Female,Business Analytics,1,21.4,78.5,64.8,64.8,Yes,3.33,Sports,100.0,Distinction
+STU0830,20,Female,Computer Science,3,18.6,85.8,68.7,50.3,Yes,2.97,Club,98.3,Distinction
+STU0831,19,Male,Information Technology,3,28.8,88.9,62.2,90.0,No,3.66,None,100.0,High Distinction
+STU0832,20,Male,Computer Science,3,6.1,64.5,77.0,58.7,Yes,1.99,Club,91.0,Distinction
+STU0833,19,Female,Business Analytics,1,22.6,83.9,86.6,40.4,Yes,3.97,Volunteer,100.0,High Distinction
+STU0834,19,Female,Data Science,1,21.9,85.4,49.3,87.9,Yes,2.28,Multiple,100.0,High Distinction
+STU0835,21,Female,Computer Science,4,9.2,81.5,77.3,60.4,Yes,2.77,None,99.1,High Distinction
+STU0836,20,Female,Information Technology,3,21.0,95.6,68.4,58.9,Yes,3.03,Sports,100.0,Distinction
+STU0837,23,Male,Information Technology,4,17.0,87.8,73.5,41.5,Yes,2.98,Sports,100.0,Distinction
+STU0838,20,Female,Information Technology,3,13.6,95.8,78.0,94.1,Yes,3.5,Multiple,100.0,High Distinction
+STU0839,21,Female,Computer Science,3,10.1,82.1,69.6,48.7,Yes,2.57,Multiple,88.7,Distinction
+STU0840,21,Female,Information Technology,3,10.7,92.4,70.7,68.9,Yes,3.17,None,100.0,High Distinction
+STU0841,18,Female,Data Science,4,27.3,98.7,69.2,81.7,Yes,2.79,None,100.0,High Distinction
+STU0842,21,Female,Computer Science,3,15.0,95.8,84.6,74.3,Yes,3.18,Sports,100.0,High Distinction
+STU0843,19,Female,Computer Science,3,19.7,74.2,77.4,67.1,Yes,3.02,None,100.0,High Distinction
+STU0844,24,Female,Information Technology,1,10.3,81.7,74.9,42.5,Yes,3.09,Sports,91.8,Distinction
+STU0845,19,Male,Software Engineering,2,10.3,80.9,55.5,55.9,Yes,2.8,None,90.3,Distinction
+STU0846,20,Male,Data Science,3,21.5,88.4,67.1,70.8,Yes,2.82,Club,100.0,High Distinction
+STU0847,19,Male,Data Science,1,6.9,90.2,83.7,56.2,Yes,3.18,Multiple,92.6,High Distinction
+STU0848,25,Male,Information Technology,1,12.5,76.4,72.5,71.1,Yes,3.47,Multiple,100.0,High Distinction
+STU0849,21,Female,Business Analytics,2,15.2,84.6,80.6,78.2,Yes,2.78,Sports,100.0,High Distinction
+STU0850,21,Male,Computer Science,1,15.7,65.8,95.0,82.4,Yes,,Club,98.8,High Distinction
+STU0851,18,Male,Business Analytics,1,13.9,97.0,85.5,49.6,Yes,3.33,Multiple,100.0,High Distinction
+STU0852,22,Female,Software Engineering,2,17.4,79.4,73.2,100.0,Yes,3.04,None,100.0,High Distinction
+STU0853,19,Female,Business Analytics,4,19.2,84.5,65.4,79.5,No,3.42,Club,100.0,High Distinction
+STU0854,23,Male,Software Engineering,2,19.4,81.2,38.8,68.0,Yes,2.64,Sports,100.0,Distinction
+STU0855,19,Male,Data Science,1,9.1,94.3,69.8,84.3,Yes,2.25,None,99.8,High Distinction
+STU0856,19,Female,Computer Science,1,13.3,58.5,67.8,100.0,Yes,2.81,Sports,100.0,High Distinction
+STU0857,18,Male,Software Engineering,3,22.2,83.9,77.1,46.4,Yes,2.71,None,97.8,Distinction
+STU0858,20,Female,Computer Science,2,20.4,83.0,70.0,64.6,Yes,3.01,Club,100.0,High Distinction
+STU0859,21,Female,Business Analytics,4,6.8,79.9,67.8,32.3,Yes,2.76,None,83.1,Credit
+STU0860,18,Female,Computer Science,3,17.1,99.5,48.9,70.9,Yes,3.38,Sports,90.5,Distinction
+STU0861,22,Female,Computer Science,3,3.1,76.0,59.8,73.5,Yes,2.92,None,87.8,Distinction
+STU0862,20,Male,Information Technology,1,15.3,90.9,78.2,67.4,Yes,3.12,Multiple,100.0,High Distinction
+STU0863,21,Female,Information Technology,3,26.4,87.2,94.3,58.2,Yes,3.12,Sports,100.0,High Distinction
+STU0864,20,Female,Business Analytics,1,9.3,95.4,70.7,37.3,Yes,3.14,Club,88.1,Distinction
+STU0865,20,Male,Business Analytics,4,10.0,78.0,76.3,73.6,Yes,3.04,Club,83.0,Distinction
+STU0866,21,Female,Computer Science,3,19.6,77.4,84.4,89.8,Yes,3.28,Sports,100.0,High Distinction
+STU0867,19,Male,Computer Science,2,5.7,93.9,,59.1,Yes,2.69,None,92.0,Distinction
+STU0868,19,Male,Business Analytics,1,11.2,87.8,76.8,74.6,Yes,3.68,Volunteer,100.0,High Distinction
+STU0869,23,Male,Information Technology,1,18.6,70.1,62.4,44.5,Yes,2.94,None,94.5,Distinction
+STU0870,24,Female,Data Science,3,11.2,79.1,83.2,74.9,Yes,2.46,None,98.4,High Distinction
+STU0871,20,Male,Data Science,1,13.6,87.5,74.0,62.1,Yes,3.13,Club,99.2,High Distinction
+STU0872,20,Male,Software Engineering,3,19.5,91.5,75.9,56.6,No,2.67,None,100.0,High Distinction
+STU0873,21,Female,Data Science,1,17.5,77.9,61.8,56.6,No,3.35,Sports,100.0,Distinction
+STU0874,20,Male,Information Technology,3,16.6,57.8,81.2,62.1,Yes,4.0,Sports,100.0,High Distinction
+STU0875,18,Male,Data Science,4,13.0,88.7,99.1,73.7,Yes,2.7,Sports,100.0,High Distinction
+STU0876,19,Male,Information Technology,3,17.2,73.0,58.9,48.3,Yes,3.2,Club,91.5,Distinction
+STU0877,22,Male,Information Technology,3,14.3,65.8,67.6,62.0,Yes,2.26,Club,81.2,Distinction
+STU0878,21,Male,Data Science,1,17.7,58.5,75.0,67.4,Yes,3.25,Club,100.0,High Distinction
+STU0879,18,Female,Information Technology,1,12.0,91.3,82.2,51.5,Yes,2.65,Club,100.0,High Distinction
+STU0880,19,Male,Data Science,3,13.9,85.2,64.7,94.9,Yes,2.77,None,100.0,High Distinction
+STU0881,19,Male,Software Engineering,2,9.1,82.0,35.2,55.2,Yes,2.55,Sports,67.4,Pass
+STU0882,21,Female,Software Engineering,2,14.8,96.5,89.7,58.0,Yes,3.38,Sports,100.0,High Distinction
+STU0883,18,Female,Software Engineering,1,10.1,89.7,81.9,53.3,No,3.5,Sports,100.0,High Distinction
+STU0884,19,Female,Information Technology,1,8.3,98.5,49.3,95.0,Yes,3.06,Multiple,93.5,Distinction
+STU0885,22,Male,Information Technology,1,16.6,71.5,64.1,76.3,Yes,2.66,Volunteer,99.5,High Distinction
+STU0886,19,Female,Business Analytics,4,16.3,83.7,92.4,54.0,Yes,3.77,None,100.0,High Distinction
+STU0887,21,Male,Information Technology,1,19.7,69.4,90.8,84.6,Yes,2.71,None,100.0,High Distinction
+STU0888,19,Male,Business Analytics,3,12.4,81.9,84.2,71.0,Yes,2.08,None,93.5,High Distinction
+STU0889,19,Female,Data Science,1,17.4,81.8,69.7,71.9,Yes,3.26,None,100.0,High Distinction
+STU0890,19,Female,Data Science,3,18.3,89.6,73.1,62.8,Yes,2.55,None,100.0,High Distinction
+STU0891,22,Male,Information Technology,2,17.7,84.4,70.3,56.8,Yes,3.49,Club,100.0,Distinction
+STU0892,23,Female,Computer Science,4,,89.6,86.7,73.1,Yes,2.88,Multiple,100.0,High Distinction
+STU0893,23,Male,Information Technology,4,15.9,90.3,60.6,59.8,Yes,3.32,Volunteer,100.0,Distinction
+STU0894,20,Female,Computer Science,2,17.2,100.0,61.5,95.3,Yes,3.68,None,100.0,High Distinction
+STU0895,21,Female,Software Engineering,4,15.0,81.2,85.1,49.0,Yes,2.51,Sports,100.0,High Distinction
+STU0896,19,Female,Information Technology,4,2.5,75.5,71.4,91.0,Yes,2.8,Sports,79.8,High Distinction
+STU0897,20,Male,Computer Science,4,16.0,86.2,89.9,66.3,Yes,3.02,Volunteer,100.0,High Distinction
+STU0898,23,Female,Computer Science,4,28.3,76.8,63.3,72.5,Yes,3.74,Volunteer,100.0,High Distinction
+STU0899,18,Male,Data Science,1,12.8,97.3,71.3,80.5,Yes,2.75,Multiple,100.0,High Distinction
+STU0900,19,Male,Business Analytics,3,10.6,81.5,60.0,58.5,Yes,2.78,Sports,87.4,Distinction
+STU0901,19,Male,Information Technology,1,17.2,78.9,72.1,81.0,Yes,3.27,Club,100.0,High Distinction
+STU0902,18,Male,Computer Science,1,16.9,79.8,52.8,27.4,Yes,2.79,None,89.9,Credit
+STU0903,19,Female,Information Technology,4,22.2,90.5,65.7,57.2,Yes,3.12,Club,100.0,Distinction
+STU0904,21,Male,Information Technology,2,7.5,82.6,53.3,54.1,Yes,2.35,None,84.3,Credit
+STU0905,20,Male,Data Science,3,19.4,78.2,81.0,49.2,No,4.0,Sports,100.0,High Distinction
+STU0906,23,Female,Business Analytics,4,18.5,99.0,81.3,64.8,Yes,2.44,Club,100.0,High Distinction
+STU0907,22,Male,Information Technology,4,14.1,76.3,49.5,73.8,Yes,2.91,None,100.0,Distinction
+STU0908,20,Female,Computer Science,4,17.0,84.3,89.3,78.5,Yes,3.04,None,100.0,High Distinction
+STU0909,19,Male,Software Engineering,1,21.2,89.9,100.0,71.6,Yes,3.91,None,100.0,High Distinction
+STU0910,20,Female,Information Technology,1,20.2,69.3,72.6,58.0,No,2.45,None,99.7,High Distinction
+STU0911,21,Male,Data Science,2,8.1,88.3,63.7,73.5,Yes,3.94,None,98.3,High Distinction
+STU0912,20,Female,Computer Science,1,19.9,74.5,100.0,69.9,Yes,3.39,None,100.0,High Distinction
+STU0913,21,Male,Business Analytics,1,14.6,91.4,54.9,82.0,Yes,3.24,None,100.0,High Distinction
+STU0914,20,Male,Computer Science,2,15.4,75.3,72.3,79.7,Yes,2.61,None,100.0,High Distinction
+STU0915,21,Female,Business Analytics,3,15.4,90.2,74.3,68.5,Yes,3.31,Multiple,100.0,High Distinction
+STU0916,20,Female,Software Engineering,3,14.1,94.0,89.5,54.5,Yes,2.72,Sports,100.0,High Distinction
+STU0917,20,Female,Information Technology,2,22.2,91.8,76.7,58.2,Yes,3.62,None,100.0,High Distinction
+STU0918,24,Female,Computer Science,3,14.5,86.3,65.5,59.8,Yes,2.61,Club,100.0,Distinction
+STU0919,22,Male,Computer Science,1,8.3,81.9,59.6,63.3,Yes,3.0,Multiple,88.8,Distinction
+STU0920,19,Male,Information Technology,1,12.6,78.8,67.6,72.0,Yes,2.8,Club,100.0,High Distinction
+STU0921,23,Female,Computer Science,3,16.1,97.2,58.9,78.7,Yes,2.61,None,100.0,High Distinction
+STU0922,21,Male,Computer Science,3,22.4,77.7,72.6,67.2,Yes,3.38,Club,100.0,High Distinction
+STU0923,23,Female,Data Science,3,18.6,74.7,64.7,68.2,Yes,3.29,Club,100.0,High Distinction
+STU0924,22,Female,Information Technology,1,9.9,90.0,52.6,70.1,Yes,3.59,Volunteer,96.4,Distinction
+STU0925,20,Male,Information Technology,4,29.9,76.8,88.3,60.3,Yes,2.25,Club,100.0,High Distinction
+STU0926,18,Male,Software Engineering,3,16.6,75.4,65.5,54.1,Yes,3.53,Multiple,100.0,Distinction
+STU0927,20,Male,Computer Science,3,22.7,71.0,55.5,41.7,Yes,4.0,Multiple,100.0,Distinction
+STU0928,21,Male,Software Engineering,3,14.1,79.7,69.8,57.6,Yes,2.85,Club,100.0,Distinction
+STU0929,21,Male,Information Technology,4,18.2,83.3,72.9,75.1,No,3.9,Sports,100.0,High Distinction
+STU0930,19,Male,Software Engineering,3,20.0,86.2,49.3,57.5,Yes,2.93,Club,100.0,Distinction
+STU0931,19,Male,Business Analytics,3,22.3,92.6,76.3,64.4,Yes,2.43,Volunteer,100.0,High Distinction
+STU0932,23,Female,Software Engineering,4,21.3,88.7,58.4,75.0,Yes,2.91,None,100.0,High Distinction
+STU0933,25,Female,Software Engineering,3,20.2,82.3,94.2,75.8,Yes,3.52,Multiple,100.0,High Distinction
+STU0934,21,Female,Information Technology,2,13.1,82.2,78.8,51.8,Yes,2.67,None,86.3,Distinction
+STU0935,19,Female,Software Engineering,3,11.6,88.6,66.8,83.0,No,2.78,Sports,90.8,High Distinction
+STU0936,20,Female,Information Technology,2,17.0,95.5,62.3,84.9,No,3.32,Multiple,100.0,High Distinction
+STU0937,18,Male,Information Technology,1,20.6,85.1,70.6,51.1,Yes,3.05,None,100.0,Distinction
+STU0938,23,Female,Information Technology,3,13.7,79.8,80.0,55.6,No,3.31,Sports,96.5,High Distinction
+STU0939,19,Female,Business Analytics,4,21.4,75.1,71.7,85.9,Yes,3.16,None,100.0,High Distinction
+STU0940,21,Female,Computer Science,4,23.7,71.0,69.2,65.8,Yes,3.27,Sports,100.0,High Distinction
+STU0941,20,Female,Business Analytics,2,9.5,90.0,72.8,34.7,Yes,2.86,None,94.1,Distinction
+STU0942,21,Female,Business Analytics,2,10.0,89.2,64.1,47.0,Yes,3.15,Sports,93.5,Distinction
+STU0943,21,Female,Data Science,1,14.2,89.2,67.5,64.3,Yes,2.63,Sports,100.0,High Distinction
+STU0944,22,Female,Software Engineering,4,16.8,82.8,44.9,50.6,Yes,3.63,Multiple,93.9,Credit
+STU0945,19,Male,Information Technology,4,11.9,96.7,84.7,61.8,Yes,2.76,Multiple,100.0,High Distinction
+STU0946,18,Male,Information Technology,3,23.1,79.6,75.9,68.5,Yes,3.56,None,100.0,High Distinction
+STU0947,19,Female,Information Technology,4,17.5,92.6,61.9,89.9,Yes,2.94,Volunteer,100.0,High Distinction
+STU0948,23,Male,Computer Science,3,15.2,83.7,96.7,63.6,Yes,,None,100.0,High Distinction
+STU0949,23,Male,Computer Science,3,6.4,78.5,73.1,84.1,Yes,2.83,None,91.7,High Distinction
+STU0950,21,Male,Information Technology,1,7.1,89.3,58.5,89.4,Yes,2.59,None,94.0,High Distinction
+STU0951,21,Male,Information Technology,2,16.7,87.7,83.1,89.5,Yes,2.26,Multiple,100.0,High Distinction
+STU0952,21,Female,Software Engineering,3,2.2,87.2,77.2,72.3,Yes,2.58,Multiple,87.0,High Distinction
+STU0953,19,Male,Business Analytics,3,21.1,84.7,77.1,38.6,Yes,2.9,None,100.0,Distinction
+STU0954,23,Male,Information Technology,2,14.1,83.7,66.5,74.9,Yes,3.15,None,100.0,High Distinction
+STU0955,20,Male,Business Analytics,4,34.5,100.0,77.9,83.7,Yes,3.5,None,100.0,High Distinction
+STU0956,20,Female,Computer Science,1,28.8,94.7,,66.8,No,2.85,Sports,100.0,High Distinction
+STU0957,21,Female,Information Technology,2,13.9,90.5,79.2,94.2,Yes,2.65,Club,100.0,High Distinction
+STU0958,18,Female,Business Analytics,3,14.4,85.0,47.2,80.9,No,2.4,None,99.5,Distinction
+STU0959,19,Female,Business Analytics,3,21.0,93.1,66.4,76.5,Yes,3.27,Volunteer,100.0,High Distinction
+STU0960,22,Female,Information Technology,3,25.2,88.7,94.4,84.3,Yes,3.67,Sports,100.0,High Distinction
+STU0961,19,Female,Software Engineering,1,5.2,84.2,62.0,73.0,Yes,3.62,Multiple,98.4,High Distinction
+STU0962,21,Female,Software Engineering,1,4.3,81.3,64.2,30.6,Yes,3.37,Club,90.0,Credit
+STU0963,19,Male,Business Analytics,3,11.3,83.3,66.2,60.5,Yes,3.34,Sports,98.7,Distinction
+STU0964,20,Male,Business Analytics,3,18.5,55.5,56.2,86.0,Yes,3.81,Volunteer,100.0,High Distinction
+STU0965,20,Male,Business Analytics,1,18.0,85.9,43.3,55.9,Yes,3.2,Volunteer,100.0,Distinction
+STU0966,20,Female,Computer Science,3,21.4,79.6,69.0,64.6,Yes,3.34,None,100.0,High Distinction
+STU0967,22,Female,Information Technology,2,7.8,98.3,73.8,52.3,Yes,2.91,Sports,91.9,Distinction
+STU0968,20,Female,Computer Science,3,2.0,84.2,71.3,94.8,Yes,2.44,Multiple,75.4,Distinction
+STU0969,21,Female,Business Analytics,4,20.1,73.3,70.1,93.2,Yes,2.74,None,100.0,High Distinction
+STU0970,20,Female,Business Analytics,1,10.0,83.6,72.6,54.7,Yes,3.05,None,96.1,Distinction
+STU0971,21,Male,Computer Science,1,2.9,74.6,85.3,70.2,Yes,3.08,Sports,89.1,High Distinction
+STU0972,24,Male,Software Engineering,3,15.9,88.3,69.5,57.8,Yes,3.92,Volunteer,100.0,Distinction
+STU0973,22,Female,Software Engineering,3,19.8,86.6,64.5,77.2,Yes,3.09,Volunteer,100.0,High Distinction
+STU0974,19,Female,Data Science,3,14.3,92.6,68.3,75.6,Yes,3.58,Multiple,100.0,High Distinction
+STU0975,18,Female,Business Analytics,4,12.3,76.9,79.5,80.2,Yes,2.85,Club,100.0,High Distinction
+STU0976,20,Female,Software Engineering,4,14.0,84.3,90.4,73.0,Yes,2.91,None,100.0,High Distinction
+STU0977,21,Male,Computer Science,4,12.8,71.7,63.8,100.0,Yes,2.45,Club,100.0,High Distinction
+STU0978,18,Female,Data Science,2,6.9,90.3,73.3,52.6,Yes,2.72,Volunteer,85.4,Distinction
+STU0979,21,Female,Computer Science,2,10.7,88.7,76.4,42.3,Yes,3.29,None,88.6,Distinction
+STU0980,21,Female,Data Science,2,18.1,88.5,59.1,62.1,Yes,3.05,None,100.0,Distinction
+STU0981,20,Female,Information Technology,1,16.9,84.0,72.3,44.5,Yes,3.47,None,100.0,Distinction
+STU0982,22,Male,Software Engineering,3,16.0,87.7,52.9,45.6,Yes,3.13,Club,89.7,Credit
+STU0983,19,Female,Software Engineering,1,9.0,98.4,49.0,53.0,Yes,2.89,Multiple,83.5,Credit
+STU0984,18,Female,Computer Science,4,13.9,81.4,76.8,54.2,Yes,4.0,Club,92.8,Distinction
+STU0985,22,Male,Business Analytics,3,2.0,85.2,67.0,53.7,Yes,3.01,Multiple,72.1,Credit
+STU0986,21,Male,Software Engineering,3,16.1,74.2,74.6,75.8,Yes,3.57,None,100.0,High Distinction
+STU0987,22,Male,Business Analytics,2,23.6,76.2,71.8,60.4,Yes,2.87,Multiple,100.0,High Distinction
+STU0988,20,Female,Software Engineering,1,6.2,84.9,59.3,65.3,Yes,3.37,Volunteer,83.2,Distinction
+STU0989,19,Female,Business Analytics,1,11.5,93.9,71.4,81.4,Yes,3.47,Sports,100.0,High Distinction
+STU0990,22,Male,Information Technology,2,17.0,81.7,56.0,56.5,Yes,3.14,Multiple,100.0,Distinction
+STU0991,22,Male,Information Technology,1,22.5,81.9,90.1,64.0,No,1.99,None,100.0,High Distinction
+STU0992,22,Male,Computer Science,3,12.3,80.3,54.4,73.5,Yes,3.06,Multiple,95.2,Distinction
+STU0993,20,Male,Data Science,4,10.8,79.2,69.5,38.9,Yes,3.6,Multiple,92.9,Distinction
+STU0994,21,Male,Information Technology,4,3.2,86.7,58.5,32.2,Yes,3.29,Volunteer,62.5,Pass
+STU0995,20,Male,Business Analytics,3,15.6,70.5,79.4,73.2,Yes,3.25,Club,100.0,High Distinction
+STU0996,19,Female,Business Analytics,1,27.3,95.5,67.7,75.4,Yes,2.27,None,100.0,High Distinction
+STU0997,23,Female,Business Analytics,4,16.7,78.0,65.3,99.0,Yes,2.73,Club,100.0,High Distinction
+STU0998,19,Female,Software Engineering,4,14.9,90.5,83.1,70.4,Yes,3.24,Sports,100.0,High Distinction
+STU0999,24,Male,Software Engineering,1,16.9,72.6,72.4,80.3,Yes,3.23,Volunteer,100.0,High Distinction
+STU1000,20,Male,Information Technology,3,14.9,90.0,78.7,65.1,Yes,3.6,Volunteer,97.1,High Distinction
